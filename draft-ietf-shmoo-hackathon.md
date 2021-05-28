@@ -1,4 +1,4 @@
- ---
+---
 title: "Running an IETF Hackathon"
 abbrev: "ietf-hackathon"
 docname: draft-ietf-shmoo-hackathon-latest
