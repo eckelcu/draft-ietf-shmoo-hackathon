@@ -472,6 +472,7 @@ This document has no IANA actions.
 --- back
 
 # Acknowledgments
+{:numbered="false"}
 
 The IETF Secretariat, notably Alexa Morris and Stephanie McCammon, contributed significantly to the creation of the IETF Hackathon and the practices in this document. Among other things, Alexa drafted the initial breakdown of [Roles and Responsibilities](#roles-and-responsibilities), and Stephanie McCammon created the initial web page and wiki. These have evolved over time and are used to run each Hackathon.
 
