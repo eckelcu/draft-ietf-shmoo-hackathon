@@ -45,8 +45,7 @@ In addition to the running code created and improved as a result of each Hackath
 
 Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving Internet standards.
 
-This document provides a set of practices that have been
-used for running IETF Hackathons.
+This document provides a set of practices that have been used for running IETF Hackathons.
 
 # Timing
 
