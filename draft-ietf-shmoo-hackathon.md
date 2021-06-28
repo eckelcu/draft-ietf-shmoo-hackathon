@@ -28,7 +28,7 @@ informative:
 
 --- abstract
 
-IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only. 
+IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only. 
 
 --- middle
 
@@ -45,7 +45,8 @@ In addition to the running code created and improved as a result of each Hackath
 
 Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving Internet standards.
 
-This document provides a set of practices for running IETF Hackathons.
+This document provides a set of practices that have been
+used for running IETF Hackathons.
 
 # Timing
 
