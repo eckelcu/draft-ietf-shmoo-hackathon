@@ -352,9 +352,7 @@ The NOC has graciously met the needs of the Hackathon since its inception and co
 
 ### Remote Networking
 
-Online only meetings present both a personal networking challenge and a computer networking challenge. The NOC came to the rescue for the latter with remote networking options to join the IETF network while attending the meeting remotely. With a Raspberry Pi 2B, 3B, or 4B, the NOC has a recipe that allow teams to be virtually connected to the IETF network with all the previously mentioned options. This remote networking capability is available for in-person and online only Hackathons.
-
-Virtual connectively to the IETF network remains generally available between meetings. Individuals or project champions can request access through the [IETF Ticketing System](​https://tickets.meeting.ietf.org/newticket).
+Online only meetings present both a personal networking challenge and a computer networking challenge. The NOC came to the rescue for the latter with remote networking options to join the IETF network while attending a meeting remotely. This evolved into what is now known as [HackNet](https://hacknet.meeting.ietf.org/), a global Layer 2 VPN designed to support IETF protocol development across teams within the IETF Hackathon. A limited set of devices for connecting to HackNet are supported. In addition to layer 2 connectivity, a subset of the networking capabilities available at in-person meetings are available. Both the set of devices and the set of networking capabilities are expected to expand and evolve over time. HackNet is generally available between IETF meetings. Support is available via email to <ticket@meeting.ietf.org>.
 
 ## Webex
 
