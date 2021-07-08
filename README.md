@@ -22,3 +22,12 @@ This requires that you have the necessary software installed.  See
 
 See the
 [guidelines for contributions](https://github.com/eckelcu/draft-ietf-shmoo-hackathon/blob/main/CONTRIBUTING.md).
+
+
+## Code
+
+There is no code directly associated with this Internet-Draft.
+
+Code associated with IETF Hackathons is available in the [IETF-Hackathon](https://github.com/ietf-hackathon) GitHub organization. 
+
+Code associated with IETF Hackathon projects is often listed in the description of each project on the Hackathon wiki that exists for each Hackathon. Information about each Hackathon, including its wiki, is available at <https://www.ietf.org/how/runningcode/hackathons/>.
