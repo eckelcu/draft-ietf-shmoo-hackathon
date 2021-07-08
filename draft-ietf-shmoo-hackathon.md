@@ -450,6 +450,10 @@ Key responsibilities include:
 
 The first several Hackathon involved judges who listened to summary presentations by teams at the closing of each Hackathon and identified winning teams for an arbitrary number of project categories. Prizes were made available to members of winning teams. This was done as an incentive to participate in the Hackathon and present results, and  to provide a fun yet informative end to the Hackathon that could be appreciated by the entire IETF community. Judging and awarding of prizes led to confusion regarding the nature of the Hackathon, making it appear to some overly competitive. Procurement of appropriate prizes was financially and logistically challenging. Arrangement of judges, determination of winners, and awarding of prizes all became more time consuming, especially as the number of projects and participants grew. Ultimately, it was deemed best to eliminate judging, awards, and prizes entirely. Apparently the IETF community has an innate incentive to participate and present results in the Hackathon.
 
+# Implementation Status
+
+The practices described in this document have been established, used, and refined over the course of running numerous IETF Hackathons, including several at online only IETF meetings. The [draft-ietf-shmoo-hackathon](https://github.com/eckelcu/draft-ietf-shmoo-hackathon) GitHub repository has been used to collaborate on this document. The [IETF-Hackathon](https://github.com/ietf-hackathon) GitHub organization contains code associated with IETF Hackathons.
+
 # Security Considerations
 
 None.
