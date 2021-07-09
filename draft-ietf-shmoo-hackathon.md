@@ -18,7 +18,7 @@ author:
     name: Charles Eckel
     organization: Cisco Systems
     email: eckelcu@cisco.com
-    country: USA
+    country: United States of America
 
 normative:
 
