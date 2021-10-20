@@ -84,7 +84,7 @@ The room closes Saturday evening to give hotel staff unfettered access to the ro
 
 The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.
 
-Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist to facilitate ongoing discussion and work on projects beyond the official end of the Hackathon weekend.
+[Hackdemo Happy Hour](#hackdemo-happy-hour) and the [Code Lounge](#code-lounge) exist to facilitate ongoing discussion and work on projects beyond the official end of the Hackathon weekend.
 
 ## Hackdemo Happy Hour
 
