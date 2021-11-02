@@ -456,7 +456,7 @@ The practices described in this document have been established, used, and refine
 
 # Security Considerations
 
-None.
+[HackNet](#remote_networking) enables Hackathon participants to join the IETF network while attending a meeting remotely. The intent is for those connecting remotely to have as open a network as possible, just like those connecting to the IETF network at an in person meeting. A user must have a datatracker account to access HackNet and is expected to respect it just as they are expected to respect the IETF network at an in person meeting. If HackNet is exploited, it is addressed as an exploitation of the IETF network would be at an in person meeting.
 
 ## Privacy Considerations
 
