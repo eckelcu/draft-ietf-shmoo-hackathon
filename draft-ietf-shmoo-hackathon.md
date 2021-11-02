@@ -386,11 +386,11 @@ Hackathon participation has grown from 45 at IETF 92 to a maximum of 406 at IETF
 
 ## IETF Survey Results
 
-For each IETF meeting, there is a post event survey that often includes a question or two about the Hackathon, e.g., {{IETF-106-SURVEY}}(https://www.ietf.org/media/documents/IETF_106_Meeting_Survey.pdf).
+For each IETF meeting, there is a post event survey that often includes a question or two about the Hackathon, e.g., {{IETF-106-SURVEY}}
 
 ## Hackathon Survey Results
 
-Hackathon specific surveys have been used on some occasions to obtain more detailed feedback about the Hackathon from the IETF community. This has been especially useful for feedback on online only Hackathons. Survey have been short with most questions being optional, e.g., [IETF 110 Hackathon Survey Results](https://ql.tc/8K1JeZ).
+Hackathon specific surveys have been used on some occasions to obtain more detailed feedback about the Hackathon from the IETF community. This has been especially useful for feedback on online only Hackathons. Survey have been short with most questions being optional, e.g., {{IETF-110-SURVEY}}.
 
 # Roles and Responsibilities
 
