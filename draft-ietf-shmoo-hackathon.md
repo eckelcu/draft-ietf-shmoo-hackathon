@@ -25,8 +25,8 @@ normative:
 informative:
 
  HackNet:
-   target: https://hacknet.meeting.ietf.org/
-
+    title: "HackNet"
+    target: "https://hacknet.meeting.ietf.org/"
 
 --- abstract
 
