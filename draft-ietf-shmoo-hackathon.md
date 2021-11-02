@@ -36,9 +36,9 @@ informative:
     title: "IETF 110 Meeting Survey"
     target: "https://ql.tc/8K1JeZ"  
 
-   HackNet:  
-     title: "HackNet"
-     target: "https://hacknet.meeting.ietf.org/"
+  HackNet:  
+    title: "HackNet"
+    target: "https://hacknet.meeting.ietf.org/"
 
 --- abstract
 
