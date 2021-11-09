@@ -550,7 +550,7 @@ The first several Hackathon involved judges who listened to summary presentation
 
 # Implementation Status
 
-The practices described in this document have been established, used, and refined over the course of running numerous IETF Hackathons, including several at online only IETF meetings. The {{GITHUB-REPO}} GitHub repository has been used to collaborate on this document. The {{IETF-HACKATHON-GITHUB}} organization contains code associated with IETF Hackathons.
+The practices described in this document have been established, used, and refined over the course of running numerous IETF Hackathons, including several at online only IETF meetings. The {{GITHUB-REPO}} GitHub repository has been used to collaborate on this document. The [IETF-Hackathon GitHub](#github) contains code associated with IETF Hackathons.
 
 # Security Considerations
 
