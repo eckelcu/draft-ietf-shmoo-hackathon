@@ -504,7 +504,7 @@ Key responsibilities include:
 * Handle venue logistics for Hackathon, Hackdemo Happy Hour, and Code Lounge (e.g., reserve room, food and beverages, AV, etc.)
 * Internal IETF promotion (e.g., email messages to IETF community)
 * Assist with external outreach, as needed, including finding sponsors
-* Validate Hackathon registrations for in-person participants, including issuing badges and participant [t-shirts](#t-shirts) when available
+* Validate Hackathon registrations for in-person participants, including issuing badges and [Hackathon t-shirts](#t-shirts) when available
 
 ## Sponsor
 
