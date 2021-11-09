@@ -26,20 +26,100 @@ informative:
 
   SURVEY:
     title: "IETF 107 Hackathon Participant Survey"
-    target: "https://www.surveymonkey.com/results/SM-9HLRXN8M7"
-    
-  IETF-106-SURVEY:
-    title: "IETF 106 Meeting Survey"
-    target: "https://www.ietf.org/media/documents/IETF_106_Meeting_Survey.pdf"
-  
-  IETF-110-SURVEY:
-    title: "IETF 110 Meeting Survey"
-    target: "https://ql.tc/8K1JeZ"  
+    target: "https://www.surveymonkey.com/results/SM-9HLRXN8M7/"
 
-  HackNet:  
+  IETF-108-HACKATHON-WIKI:
+    title: "IETF 108 Hackathon Wiki"
+    target: "https://trac.ietf.org/trac/ietf/meeting/wiki/108hackathon/"
+
+  IETF-RUNNING-CODE-SPONSOR:
+    title: "IETF Running Code Sponsor"
+    target: "https://www.ietf.org/about/support/#running-code/"
+
+  REMARK:
+    title: "remark GitHub repository"
+    target: "https://github.com/gnab/remark/"
+
+  DATATRACKER:
+    title: "Datatracker"
+    target: "https://datatracker.ietf.org/"
+
+  GITHUB:
+    title: "IETF-Hackathon GitHub"
+    target: "https://github.com/ietf-hackathon/"
+
+  REQUEST-SESSIONS:
+    title: "request sessions"
+    target: "https://datatracker.ietf.org/secr/sreq/"
+
+  AGENDAS:
+    title: "agendas"
+    target: "https://datatracker.ietf.org/meeting/agenda/"
+
+  HACKATHON-WEBSITE:
+    title: "Hackathon website"
+    target: "https://www.ietf.org/how/runningcode/hackathons/"
+
+  MEETING-WEBSITE:
+    title: "meeting website"
+    target: "https://www.ietf.org/how/meetings/"
+
+  REGISTRATION:
+    title: "registration system"
+    target: "https://registration.ietf.org/"
+
+  NOTE-WELL:
+    title: "Note Well"
+    target: "https://ietf.org/about/note-well/"
+
+  ACCOUNT-CREATE:
+    title: "creating"
+    target: "https://datatracker.ietf.org/accounts/create/"
+
+  EMAIL-LIST:
+    title: "hackathon@ietf.org"
+    target: "https://www.ietf.org/mailman/listinfo/Hackathon/"
+
+  EMAIL-ALIAS:
+    title: "hackathon-chairs@ietf.org"
+    target: "mailto:hackathon-chairs@ietf.org"
+
+  MEETECHO:
+    title: "Meetecho"
+    target: "https://www.meetecho.com/"
+
+  HACKNET:  
     title: "HackNet"
     target: "https://hacknet.meeting.ietf.org/"
 
+  WEBEX-ACCOUNT:
+    title: "Webex account"
+    target: "https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf/"
+
+  GATHER:
+    title: "Gather"
+    target: "(https://gather.town/"
+    
+  HEDGEDOC:
+    title: "HedgeDoc"  
+    target: "https://notes.ietf.org/"
+
+  IETF-106-SURVEY:
+    title: "IETF 106 Meeting Survey"
+    target: "https://www.ietf.org/media/documents/IETF_106_Meeting_Survey.pdf/"
+
+  IETF-110-SURVEY:
+    title: "IETF 110 Meeting Survey"
+    target: "https://ql.tc/8K1JeZ/" 
+
+  IETF-BLOG:
+    title: "IETF blog"
+    target: "https://www.ietf.org/blog/"
+
+  GITHUB-REPO:
+    title: "draft-ietf-shmoo-hackathon"
+    target: "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/"
+     
 --- abstract
 
 IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only. 
@@ -126,7 +206,7 @@ The IETF 107 Hackathon was originally scheduled to be the weekend at the start o
 
 We knew more in advance that IETF 108 would be an online only meeting. We moved and expanded the schedule to run the entire work week before the rest of the IETF meeting. The Hackathon kickoff was set for Monday, the closing for Friday, with all the time in between left for individual project teams to arrange to meet how and when was most convenient for them. The kickoff and closing sessions were schedule to align with the time frame established for the IETF 108 meeting. All of this was, of course, not ideal, and it worked much better for some people than for others, but at least everyone knew the plan and corresponding time commitment well in advance and had the ability to plan accordingly.
 
-We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All presentations as well as the agenda and a recording of the closing session are available via the IETF 108 Hackathon [wiki](https://trac.ietf.org/trac/ietf/meeting/wiki/108hackathon). This level of participation was strong enough to be considered a success and justify including the Hackathon in future online only IETF meetings.
+We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All presentations as well as the agenda and a recording of the closing session are available via the {{IETF-108-HACKATHON-WIKI}}. This level of participation was strong enough to be considered a success and justify including the Hackathon in future online only IETF meetings.
 
 Hackdemo Happy Hour and the Code Lounge are not applicable for online only Hackathons.
 
@@ -140,7 +220,7 @@ The initial funding model was to have Hackathon sponsors sign up to sponsor and 
 
 Online only Hackathons in response to the COVID-19 pandemic, and increased remote participating in general, result in increased cloud infrastructure requirements that make Hackathon sponsorship more attractive to cloud infrastructure providers.
 
-Hackathon sponsorship is available at different levels as part of being an [IETF Running Code Sponsor](https://www.ietf.org/about/support/#running-code).
+Hackathon sponsorship is available at different levels as part of being an {{IETF-RUNNING-CODE-SPONSOR}}.
 
 ## Expenses
 
@@ -229,7 +309,7 @@ For portability, presentations that use this template should be made exported in
 
 #### HTML format
 
-This template should render within any browser. It can be rendered as a slideshow using [remark](https://github.com/gnab/remark).
+This template should render within any browser. It can be rendered as a slideshow using {{REMARK}}.
 
 ## Upload to GitHub
 
@@ -259,31 +339,31 @@ The IETF Hackathon uses the same tooling used by the IETF community for its work
 
 ## Datatracker
 
-The [datatracker](https://datatracker.ietf.org/) supports the notion of Teams that are not a part of the standards development process. The Hackathon exists as one such Team. From the datatracker menu, navigate to "Other" -> "Active Teams" -> "Hackathon". Here exists a datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in [GitHub](https://github.com/ietf-hackathon) to the datatracker. Now this is done only when required for integration with other IETF tooling, including:
+The {{DATATRACKER}} supports the notion of Teams that are not a part of the standards development process. The Hackathon exists as one such Team. From the datatracker menu, navigate to "Other" -> "Active Teams" -> "Hackathon". Here exists a datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in the {{GITHUB}} to the Datatracker. Now this is done only when required for integration with other IETF tooling, including to:
 
-* requesting [sessions](https://datatracker.ietf.org/secr/sreq/) for the Hackathon kickoff and closing, and for Hackdemo Happy Hour
-* posting [agendas](https://datatracker.ietf.org/meeting/agenda/)
+* {{REQUEST-SESSIONS}} for the Hackathon kickoff and closing, and for Hackdemo Happy Hour
+* post {{AGENDAS}}
 
 ## IETF Website
 
-### Hackathon Webpage
+### Hackathon Website
 
-The IETF website includes a dedicated page for the Hackathon [webpage](https://www.ietf.org/how/runningcode/hackathons/). This page contains information about the Hackathon in general as well as links to past, present, and future Hackathons. The relevant links are updated after each IETF meeting. Other content on the page is updated on a more ad hoc basis.
+The IETF website includes a {{HACKATHON-WEBSITE}}. This website contains information about the Hackathon in general as well as links to past, present, and future Hackathons. The relevant links are updated after each IETF meeting. Other content on the website is updated on a more ad hoc basis.
 
-### Meeting Webpage
+### Meeting Website
 
-Each IETF meeting [webpage](https://www.ietf.org/how/meetings/) contains information about the corresponding Hackathon, including the dates of the Hackathon in the header, a link to the Hackathon webpage in the "Additional Events" section.
+Each {{MEETING-WEBSITE}} contains information about the corresponding Hackathon, including the dates of the Hackathon in the header and a link to the Hackathon website in the "Additional Events" section.
 
 
 ## Registration
 
-Registration for the Hackathon is through the IETF [meeting registration](https://registration.ietf.org) system. Participant registration for the Hackathon is
+Registration for the Hackathon is through the IETF meeting {{REGISTRATION}}. Participant registration for the Hackathon is:
 
 * independent of participation registration for the meeting
 * free
 * required
 
-As with meeting registration, registrants for the Hackathon acknowledge the [Note Well](https://ietf.org/about/note-well/) during the registration process.
+As with meeting registration, registrants for the Hackathon acknowledge the {{NOTE-WELL}} during the registration process.
 
 ### Participant List
 
@@ -302,7 +382,7 @@ The meeting wiki serves as the primary source of information for each Hackathon.
 
 A page within the meeting wiki, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon>, is created by the Secretariat for each Hackathon and initialized with information that is based largely on the information from the previous Hackathon. Once created, the Hackathon Chairs update and moderate this page. Champions are requested and responsible for adding information about projects for which they are a champion.
 
-Anyone can edit the wiki by logging in using their datatracker login credentials. Credentials can be obtained by [requesting](https://datatracker.ietf.org/accounts/create/) a new datatracker account.
+Anyone can edit the wiki by logging in using their datatracker login credentials. Credentials can be obtained by {{ACCOUNT-CREATE}} a new datatracker account.
 
 ### Lost and Found
 
@@ -333,17 +413,17 @@ The following wiki pages are applicable for online Hackathons only.
 
 A Team Schedule wiki page, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/teamschedule>, is created by the Chairs for each online only Hackathon. Online only Hackathons take place globally for an entire week. It is up to individual project teams to determine the preferred dates, times, and ways to meet to work on their project within the context of that week (e.g., Zoom, Webex, Slack). This page is meant to help facilitate coordination of schedules within and across teams.
 
-## Mailing List
+## Email List
 
-The Hackathon mail list, [hacakthon@ietf.org](https://www.ietf.org/mailman/listinfo/Hackathon), is used for all email communication and announcement related to the Hackathon. All registrants and given the option to subscribe to the list. Anyone interested in staying up to date on the Hackathon is able to subscribe at any time.
+The Hackathon email list, {{EMAIL-LIST}}, is used for all email communication and announcement related to the Hackathon. All registrants and given the option to subscribe to the list. Anyone interested in staying up to date on the Hackathon is able to subscribe at any time.
 
 ### Hackathon Chairs Email Alias
 
-The email alias [hackathon-chairs@ietf.org](mailto:hackathon-chairs@ietf.org) was created and is maintained by the Secretariat. It is used on hackathons webpages and wiki pages to provide a single point of contact for the Hackathon.
+The email alias, {{EMAIL-ALIAS}}, was created and is maintained by the Secretariat. It is used on Hackathon webpages and wiki pages to provide a single point of contact for the Hackathon.
 
 ## GitHub
 
-The [IETF-Hackathon](https://github.com/ietf-hackathon) is used to share code, presentations, and other artifacts at IETF Hackathons. The Hackathon Chairs are responsible for administering the GitHub org.
+The {{GITHUB}} is used to share code, presentations, and other artifacts at IETF Hackathons. The Hackathon Chairs are responsible for administering the GitHub org.
 
 Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creating of a repository for their project.
 
@@ -351,7 +431,7 @@ A repository is created and maintained by the Chairs for each Hackathon, e.g., <
 
 ## Meetecho
 
-[Meetecho](https://www.meetecho.com/) is used for the kickoff and closing sessions of the Hackathon. This provides many capabilities, including the following:
+{{MEETECHO}} is used for the kickoff and closing sessions of the Hackathon. This provides many capabilities, including the following:
 
 * allows participants to join Hackathon sessions in person or remotely
 * validate registration of participants at time of joining Hackathon sessions
@@ -366,15 +446,15 @@ The NOC has graciously met the needs of the Hackathon since its inception and co
 
 ### Remote Networking
 
-Online only meetings present both a personal networking challenge and a computer networking challenge. The NOC came to the rescue for the latter with an experimental mechanism to join the IETF network while attending a meeting remotely. This evolved into what is now known as {{HackNet}}, a global Layer 2 VPN designed to support IETF protocol development across teams within the IETF Hackathon. A limited set of devices for connecting to HackNet are supported. In addition to layer 2 connectivity, a subset of the networking capabilities available at in-person meetings are available. Both the set of devices and the set of networking capabilities are expected to expand and evolve over time. However, it is important to note that HackNet is still an experiment and not a production service. Best effort support is available via email to <ticket@meeting.ietf.org>.
+Online only meetings present both a personal networking challenge and a computer networking challenge. The NOC came to the rescue for the latter with an experimental mechanism to join the IETF network while attending a meeting remotely. This evolved into what is now known as {{HACKNET}}, a global Layer 2 VPN designed to support IETF protocol development across teams within the IETF Hackathon. A limited set of devices for connecting to HackNet are supported. In addition to layer 2 connectivity, a subset of the networking capabilities available at in-person meetings are available. Both the set of devices and the set of networking capabilities are expected to expand and evolve over time. However, it is important to note that HackNet is still an experiment and not a production service. Best effort support is available via email to <ticket@meeting.ietf.org>.
 
 ## Webex
 
-Champions can request a [Webex account](https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf) they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts remain active and available throughout the duration of the Hackathon and the associated IETF meeting. A project name may be used in place of "Working Group Name" in the request form.
+Champions can request a {{WEBEX-ACCOUNT}} they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts remain active and available throughout the duration of the Hackathon and the associated IETF meeting. A project name may be used in place of "Working Group Name" in the request form.
 
 ## Gather
 
-[Gather](https://gather.town/) facilitates virtual hallway interaction during IETF meetings. A dedicated area within the overall space is created by the Secretariat for the Hackathon. The area includes tables, identified by letters of the alphabet, that teams are free to self assign and use as and when they like. Eight to ten seats around each table facilitate group discussions within the team. A whiteboard or shared notes tablet (e.g., [HedgeDoc](https://notes.ietf.org/)) at tables facilitates sharing of information within the team. The tables also facilitate collaboration across teams. One cautionary note, Gather has relative high network bandwidth and CPU requirements, and as such may not be well suited for some Hackathon participants.
+{{GATHER}} facilitates virtual hallway interaction during IETF meetings. A dedicated area within the overall space is created by the Secretariat for the Hackathon. The area includes tables, identified by letters of the alphabet, that teams are free to self assign and use as and when they like. Eight to ten seats around each table facilitate group discussions within the team. A whiteboard or shared notes tablet (e.g., {{HEDGEDOC}}) at tables facilitates sharing of information within the team. The tables also facilitate collaboration across teams. One cautionary note, Gather has relative high network bandwidth and CPU requirements, and as such may not be well suited for some Hackathon participants.
 
 The Gather space remains available between IETF meetings, with incremental improvements and additions made during this time. The space is cleaned about a month prior to the start of the next meeting, removing anything left over from the previous meeting.  Hackathon teams are encouraged to make a copy of anything they want to retain within a week of the end of the IETF meeting.
 
@@ -403,8 +483,8 @@ The role of a Hackathon chair is similar to that of a working group chair. As wi
 * Organize and deliver a Hackathon at each IETF meeting, soliciting help from all other roles to do much of the heavy lifting
 * Encourage and provide guidance to champions who volunteer to lead projects
 * Maintain the Hackathon wiki, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon>, and all of its child pages.
-* Moderate <hackathon@ietf.org> email list
-* [Request sessions](https://datatracker.ietf.org/secr/sreq/) for the Hackathon opening and closing in the IETF meeting
+* Moderate {{EMAIL-LIST}}
+* {{REQUEST-SESSIONS}} for the Hackathon opening and closing in the IETF meeting
 * Emcee the Hackathon, including the opening and closing sessions and announcements in between
 * Create and manage the GitHub repo used for each Hackathon, e.g., <https://github.com/ietf-hackathon/ietf110-project-presentations>
 * Serve as main point of contact for all Hackathon questions and concerns
@@ -414,7 +494,7 @@ The role of a Hackathon chair is similar to that of a working group chair. As wi
 Key responsibilities include:
 
 * Configure and manage Hackathon registration system
-* Maintain Hackathon [web page](https://www.ietf.org/how/runningcode/hackathons/)
+* Maintain Hackathon {{HACKATHON-WEBSITE}}
 * Create and maintain web page for each Hackathon, e.g., <https://www.ietf.org/how/runningcode/hackathons/110-hackathon/>
 * Create wiki page for each Hackathon, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon>. This is initialized and updated at times by the Secretariat, but the Chair(s) are ultimately responsible for maintaining it.
 * Handle venue logistics for Hackathon, Hackdemo Happy Hour, and Code Lounge (e.g., reserve room, food and beverages, AV, etc.)
@@ -437,7 +517,7 @@ Key benefits include:
 * Sponsor logo on Hackathon webpage and wiki
 * Sponsor logo and call out in Hackathon kickoff and closing presentation
 * Sponsor logo and call out in IETF Plenary presentation
-* Sponsor logo and call out in Hackathon recap on [IETF blog](https://www.ietf.org/blog/)
+* Sponsor logo and call out in Hackathon recap on {{IETF-BLOG}}
 * Recognition in IETF community for helping the IETF Hackathon remain free and open to everyone
 
 ## Champions of Projects
@@ -466,7 +546,7 @@ The first several Hackathon involved judges who listened to summary presentation
 
 # Implementation Status
 
-The practices described in this document have been established, used, and refined over the course of running numerous IETF Hackathons, including several at online only IETF meetings. The [draft-ietf-shmoo-hackathon](https://github.com/eckelcu/draft-ietf-shmoo-hackathon) GitHub repository has been used to collaborate on this document. The [IETF-Hackathon](https://github.com/ietf-hackathon) GitHub organization contains code associated with IETF Hackathons.
+The practices described in this document have been established, used, and refined over the course of running numerous IETF Hackathons, including several at online only IETF meetings. The {{GITHUB-REPO}} GitHub repository has been used to collaborate on this document. The {{GITHUB}} organization contains code associated with IETF Hackathons.
 
 # Security Considerations
 
@@ -490,6 +570,6 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-The IETF Secretariat, notably Alexa Morris and Stephanie McCammon, contributed significantly to the creation of the IETF Hackathon and the practices in this document. Among other things, Alexa drafted the initial breakdown of [Roles and Responsibilities](#roles-and-responsibilities), and Stephanie McCammon created the initial web page and wiki. These have evolved over time and are used to run each Hackathon.
+The IETF Secretariat, notably Alexa Morris and Stephanie McCammon, contributed significantly to the creation of the IETF Hackathon and the practices in this document. Among other things, Alexa drafted the initial breakdown of [Roles and Responsibilities](#roles-and-responsibilities), and Stephanie McCammon created the initial Hackathon website and wiki. These have evolved over time and are used to run each Hackathon.
 
-Greg Wood, Barry Leiba, Michael Richardson, and Benson Muite also provided significant contributions to the Hackathon and to this document.
+Greg Wood, Barry Leiba, Michael Richardson, Benson Muite, and Dhruv Dhoty also provided significant contributions to the Hackathon and to this document.
