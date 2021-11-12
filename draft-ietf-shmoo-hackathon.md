@@ -53,7 +53,7 @@ informative:
     target: "https://datatracker.ietf.org/secr/sreq/"
 
   AGENDAS:
-    title: "agendas"
+    title: "IETF Meeting Agendas"
     target: "https://datatracker.ietf.org/meeting/agenda/"
 
   HACKATHON-WEBSITE:
