@@ -37,11 +37,11 @@ informative:
     target: "https://www.ietf.org/about/support/#running-code/"
 
   REMARK:
-    title: "remark GitHub repository"
+    title: "remark GitHub Repository"
     target: "https://github.com/gnab/remark/"
 
   DATATRACKER:
-    title: "Datatracker"
+    title: "IETF Datatracker"
     target: "https://datatracker.ietf.org/"
 
   IETF-HACKATHON-GITHUB:
@@ -49,39 +49,39 @@ informative:
     target: "https://github.com/ietf-hackathon/"
 
   REQUEST-SESSIONS:
-    title: "request sessions"
+    title: "IETF Session Request"
     target: "https://datatracker.ietf.org/secr/sreq/"
 
   AGENDAS:
-    title: "IETF Meeting Agendas"
+    title: "IETF Meeting Agenda"
     target: "https://datatracker.ietf.org/meeting/agenda/"
 
   HACKATHON-WEBSITE:
-    title: "Hackathon website"
+    title: "IETF Hackathon Website"
     target: "https://www.ietf.org/how/runningcode/hackathons/"
 
   MEETING-WEBSITE:
-    title: "meeting website"
+    title: "IETF Meeting Website"
     target: "https://www.ietf.org/how/meetings/"
 
   REGISTRATION-SYSTEM:
-    title: "registration system"
+    title: "IETF Meeting Registration System"
     target: "https://registration.ietf.org/"
 
   NOTE-WELL:
-    title: "Note Well"
+    title: "IETF Note Well"
     target: "https://ietf.org/about/note-well/"
 
   DATATRACKER-ACCOUNT:
-    title: "Datatracker account"
+    title: "IETF Datatracker Account Creation"
     target: "https://datatracker.ietf.org/accounts/create/"
 
   EMAIL-LIST:
-    title: "hackathon@ietf.org"
+    title: "IETF Hackathon Email List"
     target: "https://www.ietf.org/mailman/listinfo/Hackathon/"
 
   EMAIL-ALIAS:
-    title: "hackathon-chairs@ietf.org"
+    title: "IETF Hackathon Chairs Email Alias"
     target: "mailto:hackathon-chairs@ietf.org"
 
   MEETECHO:
@@ -93,7 +93,7 @@ informative:
     target: "https://hacknet.meeting.ietf.org/"
 
   WEBEX-ACCOUNT:
-    title: "Webex account"
+    title: "IETF Webex Account"
     target: "https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf/"
 
   GATHER:
@@ -113,15 +113,15 @@ informative:
     target: "https://ql.tc/8K1JeZ/" 
 
   IETF-BLOG:
-    title: "IETF blog"
+    title: "IETF Blog"
     target: "https://www.ietf.org/blog/"
 
   GITHUB-REPO:
-    title: "draft-ietf-shmoo-hackathon"
+    title: "GitHub Repository for draft-ietf-shmoo-hackathon"
     target: "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/"
 
   MEETING-WIKI:
-    title: "meeting wiki"
+    title: "IETF Meeting Wiki"
     target: "https://trac.ietf.org/trac/ietf/meeting/wiki"
  
 --- abstract
