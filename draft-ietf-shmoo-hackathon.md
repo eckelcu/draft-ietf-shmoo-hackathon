@@ -172,6 +172,10 @@ informative:
     title: "Network Startup Resource Center Calendar"
     target: "https://nsrc.org/calendar/"
 
+ NOTE-WELL:
+   title: "IETF Note Well"
+   target: "https://www.ietf.org/about/note-well/"
+
 --- abstract
 
 IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only. 
@@ -189,7 +193,9 @@ IETF Hackathons are free to attend and open to everyone. Software developers are
 
 In addition to the running code created and improved as a result of each Hackathon, the exchange or ideas, extensions of human networks, and establishment of trust, respect, and friendships are some of the most valuable outputs of each Hackathon. Code written in a programming language can be more illustrative and less confrontational than opinions expressed during a meeting or in an email. Working together to find common understanding of proposals, concerns, and solutions that result in improvements to evolving Internet standards is as important as the development of running code that implements or validates the correctness of these same proposals.
 
-Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving Internet standards.
+Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving Internet standards. IETF Hackathons are inclusive, not only in terms of who can participate but also in terms of the projects included in each Hackathon. All projects should be related to existing or proposed Internet standards in some way. Examples include, but are not limited to, interoperability of protocol implementations, proof of concepts, and tools.
+
+IETF Hackathons foster in an open environment, with much of the code being open source and projects results typically shared publicly. The Hackathon operates under the {{NOTE-WELL}}; however, the rules and terms around code are those of the license associated with the code. Although code is often and preferably open source, it may be proprietary as well.
 
 This document provides a set of practices that have been used for running IETF Hackathons.
 
