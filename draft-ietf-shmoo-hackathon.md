@@ -172,10 +172,6 @@ informative:
     title: "Network Startup Resource Center Calendar"
     target: "https://nsrc.org/calendar/"
 
- NOTE-WELL:
-   title: "IETF Note Well"
-   target: "https://www.ietf.org/about/note-well/"
-
 --- abstract
 
 IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only. 
