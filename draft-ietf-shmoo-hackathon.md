@@ -153,12 +153,12 @@ informative:
     target: "https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/teamschedule"
 
   HACKDEMO:
-    title: "IETF 106 Hackdemo Happy Hour"
-    target: "https://trac.ietf.org/trac/ietf/meeting/wiki/106hackdemo"
+    title: "IETF 113 Hackdemo Happy Hour"
+    target: "https://trac.ietf.org/trac/ietf/meeting/wiki/113hackathon/hackdemo"
 
   CODE-LOUNGE:
-    title: "IETF 106 Code Lounge"
-    target: "https://trac.ietf.org/trac/ietf/meeting/wiki/106codelounge"
+    title: "IETF 113 Code Lounge"
+    target: "https://trac.ietf.org/trac/ietf/meeting/wiki/113hackathon/codelounge"
 
   TICKET:
     title: "IETF Support Email Alias"
