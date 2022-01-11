@@ -195,7 +195,7 @@ In addition to the running code created and improved as a result of each Hackath
 
 Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving Internet standards. IETF Hackathons are inclusive, not only in terms of who can participate but also in terms of the projects included in each Hackathon. All projects should be related to existing or proposed Internet standards in some way. Examples include, but are not limited to, interoperability of protocol implementations, proof of concepts, and tools.
 
-IETF Hackathons foster in an open environment, with much of the code being open source and projects results typically shared publicly. The Hackathon operates under the {{NOTE-WELL}}; however, the rules and terms around code are those of the license associated with the code. Although code is often and preferably open source, it may be proprietary as well.
+IETF Hackathons foster an open environment, with much of the code being open source and projects results typically shared publicly. The Hackathon operates under the {{NOTE-WELL}}; however, the rules and terms around code are those of the license associated with the code. Although code is often and preferably open source, it may be proprietary as well.
 
 This document provides a set of practices that have been used for running IETF Hackathons.
 
