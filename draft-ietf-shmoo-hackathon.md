@@ -246,7 +246,7 @@ Light snacks and non alcoholic beverages are provided, and a cash bar is availab
 
 ## Code Lounge
 
-The Code Lounge provides space for groups to gather and continue to collaborate on running code after the Hackathon. It is typically in the IETF Lounge and open the same hours as the IETF Lounge. Champions are encouraged to look at the final agenda and determine time slots best suited to ensure successful attendance of Code Lounge sessions as well as any traditional working group sessions. It is okay for multiple teams to sign up for the same time slots. This is in fact encouraged for work that spans multiple working groups or projects.
+The Code Lounge provides space for groups to gather and continue to collaborate on running code after the Hackathon. It is typically in the IETF Lounge and open the same hours as the IETF Lounge. Champions are encouraged to look at the final agenda and determine time slots best suited to ensure attendance of Code Lounge sessions as well as any traditional working group sessions. It is okay for multiple teams to sign up for the same time slots. This is in fact encouraged for work that spans multiple working groups or projects.
 
 ## Code Sprint
 
