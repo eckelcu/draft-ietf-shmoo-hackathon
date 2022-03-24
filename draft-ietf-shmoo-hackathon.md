@@ -406,7 +406,7 @@ The IETF website includes a {{HACKATHON-WEBSITE}}. This website contains informa
 
 ### Meeting Website
 
-Each {{MEETING-WEBSITE}} contains information about the corresponding Hackathon, including the dates of the Hackathon in the header and a link to the Hackathon website in the "Additional Events" section.
+Each IETF {{MEETING-WEBSITE}} contains information about the corresponding Hackathon, including the dates of the Hackathon in the header and a link to the Hackathon website in the "Additional Events" section.
 
 
 ## Registration
