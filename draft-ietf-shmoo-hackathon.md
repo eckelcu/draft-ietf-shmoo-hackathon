@@ -479,7 +479,7 @@ The email alias, {{EMAIL-ALIAS}}, was created and is maintained by the Secretari
 
 The {{IETF-HACKATHON-GITHUB}} is used to share code, presentations, and other artifacts at IETF Hackathons. The Hackathon Chairs are responsible for administering the GitHub organization.
 
-Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creating of a repository for their project.
+Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creation of a repository for their project in addition to sharing their presentation (see 4.3 Upload to Github).
 
 A repository is created and maintained by the Chairs for each Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. This repo is for  participants to upload project presentations. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
