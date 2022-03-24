@@ -230,7 +230,7 @@ Lunch and dinner are provided as a convenience and an incentive to remain at the
 
 The room closes Saturday evening to give hotel staff unfettered access to the room and to encourage people to pace and take care of themselves. There are no rules against continuing work on Hackathon projects outside of the Hackathon room. Similarly, working on projects long before and after the Hackathon is allowed and encouraged.
 
-The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.
+The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants and it is important to provide them time to participate in the Newcomer events. The opening reception for the IETF typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.
 
 [Hackdemo Happy Hour](#hackdemo-happy-hour) and the [Code Lounge](#code-lounge) exist to facilitate ongoing discussion and work on projects beyond the official end of the Hackathon weekend.
 
