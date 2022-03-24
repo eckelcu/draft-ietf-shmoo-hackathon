@@ -242,7 +242,7 @@ Initially, we did something similar as part of Bits and Bites. This worked well 
 
 Hackdemo Happy Hour is typically Monday evening, roughly from 18:00 - 19:30, often overlapping a bit with the last working group session of the day but continuing long enough to allow everyone an opportunity to join. The goal is to make it convenient to attend by not conflicting with other meetings but also no running too late into the night.
 
-Light snacks and non alcoholic beverages are provided, and a cash bar is available to align with the spirit of a happy hour.
+Light snacks and beverages are provided, and a cash bar is available to align with the spirit of a happy hour.
 
 ## Code Lounge
 
