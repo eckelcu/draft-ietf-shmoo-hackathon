@@ -218,8 +218,8 @@ The typical agenda is as follows:
     Sunday before IETF meeting week
         08:30: Room opens - Pastries and coffee provided
         12:30: Lunch provided
-        13:30: Hacking stops, prepare brief presentation of results
-        14:00: Results presentations to other participants
+        13:30: Hacking stops, prepare brief presentation of project results
+        14:00: Project results presentations to other participants
         15:45: Closing remarks and opportunities for next time
         16:00: Hackathon ends
         17:00: Tear down complete
@@ -481,7 +481,7 @@ The {{IETF-HACKATHON-GITHUB}} is used to share code, presentations, and other ar
 
 Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creating of a repository for their project.
 
-A repository is created and maintained by the Chairs for each Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. This repo is for  participants to upload project results presentations. The contents of this repo are used as the source for all presentations at the end of the Hackathon and remain as a reference after the Hackathon.
+A repository is created and maintained by the Chairs for each Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. This repo is for participants to upload project results presentations. The contents of this repo are used as the source for all presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
 ## Meetecho
 
