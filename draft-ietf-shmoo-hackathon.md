@@ -469,7 +469,7 @@ A Team Schedule wiki page, e.g., {{TEAM-SCHEDULE}}, is created by the Chairs for
 
 ## Email List
 
-The Hackathon email list, {{EMAIL-LIST}}, is used for all email communication and announcement related to the Hackathon. All registrants and given the option to subscribe to the list. Anyone interested in staying up to date on the Hackathon is able to subscribe at any time.
+The Hackathon email list, {{EMAIL-LIST}}, is used for all email communication and announcements related to the Hackathon. All registrants are given the option to subscribe to the list. Anyone interested in staying up to date on the Hackathon is able to subscribe at any time. Once subscribed, anyone can send and respond to emails to the list. The same list is used for each Hackathon. Anyone wishing to receive email for a specific Hackathon only can unsubscribe after that Hackathon has concluded.
 
 ### Hackathon Chairs Email Alias
 
