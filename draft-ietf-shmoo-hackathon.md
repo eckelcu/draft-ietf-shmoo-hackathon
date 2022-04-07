@@ -218,8 +218,8 @@ The typical agenda is as follows:
     Sunday before IETF meeting week
         08:30: Room opens - Pastries and coffee provided
         12:30: Lunch provided
-        13:30: Hacking stops, prepare brief presentation of project
-        14:00: Project presentations to other participants
+        13:30: Hacking stops, prepare brief presentation of results
+        14:00: Results presentations to other participants
         15:45: Closing remarks and opportunities for next time
         16:00: Hackathon ends
         17:00: Tear down complete
@@ -260,7 +260,7 @@ The IETF 107 Hackathon was originally scheduled to be the weekend at the start o
 
 We knew more in advance that IETF 108 would be an online only meeting. We moved and expanded the schedule to run the entire work week before the rest of the IETF meeting. The Hackathon kickoff was set for Monday, the closing for Friday, with all the time in between left for individual project teams to arrange to meet how and when was most convenient for them. The kickoff and closing sessions were schedule to align with the time frame established for the IETF 108 meeting. All of this was, of course, not ideal, and it worked much better for some people than for others, but at least everyone knew the plan and corresponding time commitment well in advance and had the ability to plan accordingly.
 
-We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All presentations as well as the agenda and a recording of the closing session are available via the {{IETF-108-HACKATHON-WIKI}}. This level of participation was strong enough to be considered a success and justify including the Hackathon in future online only IETF meetings.
+We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All results presentations as well as the agenda and a recording of the closing session are available via the {{IETF-108-HACKATHON-WIKI}}. This level of participation was strong enough to be considered a success and justify including the Hackathon in future online only IETF meetings.
 
 Hackdemo Happy Hour and the Code Lounge are not applicable for online only Hackathons.
 
@@ -338,20 +338,20 @@ The change in timing and extended duration of the Hackathon at an online only IE
 
 Project presentations are an important mechanism for capturing what each team intends to accomplish, what they actually accomplished, and sharing the results and findings with the IETF community.
 
-For the first few Hackathons, we had two very distinct types of presentations,
+For the first few Hackathons, we had two very distinct types of presentations:
 
-1. Presentation that served as project pitches at the start of the Hackathon
-2. Presentations that summarize results at the end of the Hackathon.
+1. Presentations that served as project pitches at the start of the Hackathon
+2. Presentations that summarized results at the end of the Hackathon.
 
 ## Project Pitches
 
 The project pitches were 5-10 minute presentations by a champion of a project describing what they wanted to do and how they proposed to accomplish it. This gave everyone in the room a better understanding of all the projects and helped participants match themselves with appropriate projects. This worked well when we had a small number of projects, but it became unwieldy as the number of projects increased. As knowledge of the Hackathon grew and advanced planning became more common, many participants knew exactly which team they planned to join and wanted to get to work as quickly as possible rather than spend a couple hours listening to presentations. Project pitches were dropped from the Hackathon. Champions are encouraged to share this type of information in advance via the [Meeting Wiki](#meeting-wiki) instead.
 
-## Results Summaries
+## Project Results Presentations
 
-The results summaries are brief presentation by each team of what problem they tried to solve, what they achieved, and highlights that include lessons learned, feedback to associated working groups, and collaboration with open source communities and other standards organizations. They also highlight individuals who are participating in their first IETF Hackathon or first IETF event to facilitate their introduction into the IETF community. The production and presentation of results summaries is optional. Fortunately, despite the lack of awards and prizes, most teams participate.
+The project results presentations were brief presentations by each team of what problem they tried to solve, what they achieved, and highlights that included lessons learned, feedback to associated working groups, and collaboration with open source communities and other standards organizations. They also highlight individuals who participated in their first IETF Hackathon or first IETF event, which helps facilitate the introduction of such individuals to the IETF community. The production and presentation of results summaries is optional. Fortunately, despite the lack of awards and prizes, most teams participate.
 
-As with the project pitches, results summaries can become unwieldy as the number of projects increases. With this in mind, the total time for all results summaries is limited to 2 hours. The maximum duration of each presentation is calculated based on the number teams that have indicated the desire to present. This maximum is strictly enforced to ensure all teams have the opportunity to present their results. Maximum durations of 3-5 minutes are typical.
+As with the project pitches, project results presentations can become unwieldy as the number of projects increases. With this in mind, the total time for all results presentations is limited to 2 hours. The maximum duration of each presentation is calculated based on the number teams that indicate the desire to present. This maximum is strictly enforced to ensure all teams have the opportunity to present their results. Maximum durations of 3-5 minutes are typical.
 
 ### Templates
 
@@ -367,7 +367,7 @@ This template should render within any browser. It can be rendered as a slidesho
 
 ## Upload to GitHub
 
-All presentation are uploaded to the GitHub repo created the Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
+All project results presentations are uploaded to the GitHub repo created the Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. The contents of this repo are used as the source for all results presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
 One must be a member of the {{IETF-HACKATHON-GITHUB}} organization to upload a new presentation or update/replace an existing presentation.
 
@@ -481,16 +481,16 @@ The {{IETF-HACKATHON-GITHUB}} is used to share code, presentations, and other ar
 
 Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creating of a repository for their project.
 
-A repository is created and maintained by the Chairs for each Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. This repo is for  participants to upload project presentations. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
+A repository is created and maintained by the Chairs for each Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. This repo is for  participants to upload project results presentations. The contents of this repo are used as the source for all presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
 ## Meetecho
 
 {{MEETECHO}} is used for the kickoff and closing sessions of the Hackathon. This provides many capabilities, including the following:
 
 * allows participants to join Hackathon sessions in person or remotely
-* validate registration of participants at time of joining Hackathon sessions
-* enable remote presentations of project results
-* capture recording of Hackathon sessions
+* validates registration of participants at time of joining Hackathon sessions
+* enables remote presenters of project results presentations
+* captures recording of Hackathon kickoff and closing
 
 ## Network
 
@@ -596,7 +596,7 @@ Key responsibilities include:
 
 ## Judges
 
-The first several Hackathon involved judges who listened to summary presentations by teams at the closing of each Hackathon and identified winning teams for an arbitrary number of project categories. Prizes were made available to members of winning teams. This was done as an incentive to participate in the Hackathon and present results, and  to provide a fun yet informative end to the Hackathon that could be appreciated by the entire IETF community. Judging and awarding of prizes led to confusion regarding the nature of the Hackathon, making it appear to some overly competitive. Procurement of appropriate prizes was financially and logistically challenging. Arrangement of judges, determination of winners, and awarding of prizes all became more time consuming, especially as the number of projects and participants grew. Ultimately, it was deemed best to eliminate judging, awards, and prizes entirely. Apparently the IETF community has an innate incentive to participate and present results in the Hackathon.
+The first several Hackathon involved judges who listened to project results presentations by teams at the closing of each Hackathon and identified winning teams for an arbitrary number of project categories. Prizes were made available to members of winning teams. This was done as an incentive to participate in the Hackathon and present results, and  to provide a fun yet informative end to the Hackathon that could be appreciated by the entire IETF community. Judging and awarding of prizes led to confusion regarding the nature of the Hackathon, making it appear to some overly competitive. Procurement of appropriate prizes was financially and logistically challenging. Arrangement of judges, determination of winners, and awarding of prizes all became more time consuming, especially as the number of projects and participants grew. Ultimately, it was deemed best to eliminate judging, awards, and prizes entirely. Apparently the IETF community has an innate incentive to participate and present results in the Hackathon.
 
 # Implementation Status
 
@@ -626,4 +626,4 @@ This document has no IANA actions.
 
 The IETF Secretariat, notably Alexa Morris and Stephanie McCammon, contributed significantly to the creation of the IETF Hackathon and the practices in this document. Among other things, Alexa drafted the initial breakdown of [Roles and Responsibilities](#roles-and-responsibilities), and Stephanie McCammon created the initial Hackathon website and wiki. These have evolved over time and are used to run each Hackathon.
 
-Greg Wood, Barry Leiba, Michael Richardson, Benson Muite, Dhruv Dhody, and Karl Auerbach also provided significant contributions to the Hackathon and to this document.
+Greg Wood, Barry Leiba, Michael Richardson, Benson Muite, Dhruv Dhody, Karl Auerbach, and Mallory Knodel also provided significant contributions to the Hackathon and to this document.
