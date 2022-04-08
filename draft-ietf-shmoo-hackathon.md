@@ -230,7 +230,7 @@ Lunch and dinner are provided as a convenience and an incentive to remain at the
 
 The room closes Saturday evening to give hotel staff unfettered access to the room and to encourage people to pace and take care of themselves. There are no rules against continuing work on Hackathon projects outside of the Hackathon room. Similarly, working on projects long before and after the Hackathon is allowed and encouraged.
 
-The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.
+The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants and it is important to provide them time to participate in the Newcomer events. The opening reception for the IETF typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.
 
 [Hackdemo Happy Hour](#hackdemo-happy-hour) and the [Code Lounge](#code-lounge) exist to facilitate ongoing discussion and work on projects beyond the official end of the Hackathon weekend.
 
@@ -242,11 +242,11 @@ Initially, we did something similar as part of Bits and Bites. This worked well 
 
 Hackdemo Happy Hour is typically Monday evening, roughly from 18:00 - 19:30, often overlapping a bit with the last working group session of the day but continuing long enough to allow everyone an opportunity to join. The goal is to make it convenient to attend by not conflicting with other meetings but also no running too late into the night.
 
-Light snacks and non alcoholic beverages are provided, and a cash bar is available to align with the spirit of a happy hour.
+Light snacks and beverages are provided, and a cash bar is available to align with the spirit of a happy hour.
 
 ## Code Lounge
 
-The Code Lounge provides space for groups to gather and continue to collaborate on running code after the Hackathon. It is typically in the IETF Lounge and open the same hours as the IETF Lounge. Champions are encouraged to look at the final agenda and determine time slots best suited to ensure successful attendance of Code Lounge sessions as well as any traditional working group sessions. It is okay for multiple teams to sign up for the same time slots. This is in fact encouraged for work that spans multiple working groups or projects.
+The Code Lounge provides space for groups to gather and continue to collaborate on running code after the Hackathon. It is typically in the IETF Lounge and open the same hours as the IETF Lounge. Champions are encouraged to look at the final agenda and determine time slots best suited to ensure attendance of Code Lounge sessions as well as any traditional working group sessions. It is okay for multiple teams to sign up for the same time slots. This is in fact encouraged for work that spans multiple working groups or projects.
 
 ## Code Sprint
 
@@ -406,7 +406,7 @@ The IETF website includes a {{HACKATHON-WEBSITE}}. This website contains informa
 
 ### Meeting Website
 
-Each {{MEETING-WEBSITE}} contains information about the corresponding Hackathon, including the dates of the Hackathon in the header and a link to the Hackathon website in the "Additional Events" section.
+Each IETF {{MEETING-WEBSITE}} contains information about the corresponding Hackathon, including the dates of the Hackathon in the header and a link to the Hackathon website in the "Additional Events" section.
 
 
 ## Registration
@@ -479,7 +479,7 @@ The email alias, {{EMAIL-ALIAS}}, was created and is maintained by the Secretari
 
 The {{IETF-HACKATHON-GITHUB}} is used to share code, presentations, and other artifacts at IETF Hackathons. The Hackathon Chairs are responsible for administering the GitHub organization.
 
-Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creating of a repository for their project.
+Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creation of a repository for their project.
 
 A repository is created and maintained by the Chairs for each Hackathon, e.g., {{RESULTS-PRESENTATIONS}}. This repo is for  participants to upload project presentations. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
