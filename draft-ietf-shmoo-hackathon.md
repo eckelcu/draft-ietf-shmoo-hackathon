@@ -88,7 +88,7 @@ informative:
     title: "Meetecho"
     target: "https://www.meetecho.com/"
 
-  HACKNET:  
+  HACKNET:
     title: "HackNet"
     target: "https://hacknet.meeting.ietf.org/"
 
@@ -99,9 +99,9 @@ informative:
   GATHER:
     title: "Gather"
     target: "https://gather.town/"
-    
+
   HEDGEDOC:
-    title: "HedgeDoc"  
+    title: "HedgeDoc"
     target: "https://notes.ietf.org/"
 
   IETF-106-SURVEY:
@@ -110,7 +110,7 @@ informative:
 
   IETF-110-SURVEY:
     title: "IETF 110 Meeting Survey"
-    target: "https://ql.tc/8K1JeZ/" 
+    target: "https://ql.tc/8K1JeZ/"
 
   IETF-BLOG:
     title: "IETF Blog"
@@ -174,7 +174,7 @@ informative:
 
 --- abstract
 
-IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only. 
+IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only.
 
 --- middle
 
