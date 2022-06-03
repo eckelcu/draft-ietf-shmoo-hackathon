@@ -18,7 +18,7 @@ subject to a Simplified BSD License) in Contributions.
 
 ## Working Group Information
 
-Discussion of this work occurs on the [Stay Home Meet Only Online
+Discussion of this work occurs on the [Stay Home Meet Occasionally Online
 Working Group mailing list](mailto:manycouches@ietf.org)
 ([archive](https://mailarchive.ietf.org/arch/browse/manycouches/),
 [subscribe](https://www.ietf.org/mailman/listinfo/manycouches)).

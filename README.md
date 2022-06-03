@@ -28,14 +28,3 @@ $ make
 Command line usage requires that you have the necessary software installed.  See
 [the instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/SETUP.md).
 
-## Contributing
-
-See the
-[guidelines for contributions](https://github.com/eckelcu/draft-ietf-shmoo-hackathon/blob/main/CONTRIBUTING.md).
-
-
-## Code
-
-Code associated with IETF Hackathons is available in the [IETF-Hackathon](https://github.com/ietf-hackathon) GitHub organization.
-
-Code associated with IETF Hackathon projects is often identified in the project descriptions on the Hackathon wiki. Information about each Hackathon, including its wiki, is available at <https://www.ietf.org/how/runningcode/hackathons/>.
