@@ -5,8 +5,8 @@ docname: draft-ietf-shmoo-hackathon-latest
 category: info
 
 ipr: trust200902
-area: General
-workgroup: shmoo
+area: "General"
+workgroup: "Stay Home Meet Occasionally Online"
 keyword: Internet-Draft
 
 stand_alone: yes
