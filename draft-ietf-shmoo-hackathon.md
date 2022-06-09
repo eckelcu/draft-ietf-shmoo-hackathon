@@ -172,6 +172,10 @@ informative:
     title: "Network Startup Resource Center Calendar"
     target: "https://nsrc.org/calendar/"
 
+  CODE-SPRINT:
+    title: "IETF Code Sprint"
+    target: "https://www.ietf.org/how/runningcode/code-sprint/"
+
 --- abstract
 
 IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only.
@@ -250,9 +254,7 @@ The Code Lounge provides space for groups to gather and continue to collaborate 
 
 ## Code Sprint
 
-Some efforts were made to have the Hackathon and the Code Sprint work together or potentially be combined into a single event focusing on the development of IETF protocols and IETF internal tools. There is some concern that the events currently compete for resources. There is also a great deal of synergistic potential. Several Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools.
-
-The Code Sprint existed long before the Hackathon and has its own identity and way of doing things. The Code Sprint organizers are against combining the events and potentially losing this identity the benefits of a customized event. The practice that exists today is to locate the events physically close to each other to facilitate switching back and forth between the two events.
+The IETF {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code Sprint existed long before the Hackathon and has its own identity and way of doing things. However, there is also a great deal of synergy between the Code Sprint and the Hackathon, and they attract some of the same participants. For example, some Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools. It is therefore advantageous to colocate these two events when practical, and when separate space is deemed helpful, to allocate spaces that are physically close to each other to make it easy for participants to switch back and forth between the two events.
 
 ## Online Only
 
