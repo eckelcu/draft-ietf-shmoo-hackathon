@@ -628,4 +628,4 @@ This document has no IANA actions.
 
 The IETF Secretariat, notably Alexa Morris and Stephanie McCammon, contributed significantly to the creation of the IETF Hackathon and the practices in this document. Among other things, Alexa drafted the initial breakdown of [Roles and Responsibilities](#roles-and-responsibilities), and Stephanie McCammon created the initial Hackathon website and wiki. These have evolved over time and are used to run each Hackathon.
 
-Greg Wood, Barry Leiba, Michael Richardson, Benson Muite, Dhruv Dhody, Karl Auerbach, and Mallory Knodel also provided significant contributions to the Hackathon and to this document.
+Greg Wood, Barry Leiba, Michael Richardson, Benson Muite, Dhruv Dhody, Karl Auerbach, Mallory Knodel, Lars Eggert, and Robert Sparks also provided significant contributions to the Hackathon and to this document.
