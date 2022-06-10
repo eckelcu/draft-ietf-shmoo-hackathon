@@ -1,0 +1,849 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2022-01-20T01:04:16.531280+00:00",
+  "repo": "eckelcu/draft-ietf-shmoo-hackathon",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "MDU6SXNzdWU4OTc0ODgyODM=",
+      "title": "say in the abstract why this document exists",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/1",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "On Apr 27, 2021, at 1:13 PM, Stephen Farrell stephen.farrell@cs.tcd.ie wrote:\r\n\r\nOne suggestion: maybe say in the abstract why this document\r\nexists? It took me a minute or two to figure that it was\r\njust documenting IETF hackathon lore and wasn't trying to\r\ndevelop new ways to organise things. That's a fine goal but\r\ngood to know that from the abstract.\r\n\r\nCheers,\r\nS.",
+      "createdAt": "2021-05-20T21:43:45Z",
+      "updatedAt": "2021-06-28T18:04:11Z",
+      "closedAt": "2021-06-28T18:04:11Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Addressed by #4 ",
+          "createdAt": "2021-06-28T18:04:11Z",
+          "updatedAt": "2021-06-28T18:04:11Z"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "MDU6SXNzdWU5MDM4NDEwOTc=",
+      "title": "datatracker complains at time of submission about unknown country of author",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/2",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "The metadata at time of submission includes the following:\r\n\r\nAuthor 1 | Charles Eckel &lt;eckelcu@cisco.com&gt;           -                        Cisco Systems                      -                        unknown country\r\n-- | --\r\n\r\n\r\n",
+      "createdAt": "2021-05-27T14:24:23Z",
+      "updatedAt": "2021-05-27T18:19:17Z",
+      "closedAt": "2021-05-27T18:19:17Z",
+      "comments": []
+    },
+    {
+      "number": 5,
+      "id": "MDU6SXNzdWU5MDU4ODg5MjU=",
+      "title": "acknowledge contributions by Secretariat",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/5",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Alexa Morris drafted the initial breakdown of Roles and Responsibilities that have evolved over time and been added to this draft.\r\nStephanie McCammon created the initial set of web pages and wikis that have evolved over time and been described in this draft.",
+      "createdAt": "2021-05-28T18:50:31Z",
+      "updatedAt": "2021-05-28T22:00:05Z",
+      "closedAt": "2021-05-28T22:00:05Z",
+      "comments": []
+    },
+    {
+      "number": 7,
+      "id": "MDU6SXNzdWU5NDAxMDEwMzQ=",
+      "title": "Hacknet is not included in remote network section ",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/7",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Update remote network section to align with the evolution of the initial NOC experiment to hacknet, https://trac.ietf.org/trac/ietf/meeting/wiki/111hackathon/hacknet_instructions",
+      "createdAt": "2021-07-08T18:06:40Z",
+      "updatedAt": "2021-07-08T19:46:37Z",
+      "closedAt": "2021-07-08T19:46:37Z",
+      "comments": []
+    },
+    {
+      "number": 9,
+      "id": "MDU6SXNzdWU5NDAyNTI0NDQ=",
+      "title": "Implementation Status section is missing",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/9",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-07-08T22:01:06Z",
+      "updatedAt": "2021-07-08T22:41:00Z",
+      "closedAt": "2021-07-08T22:41:00Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Addressed by #10 ",
+          "createdAt": "2021-07-08T22:40:59Z",
+          "updatedAt": "2021-07-08T22:40:59Z"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "id": "MDU6SXNzdWU5NDEwODg4NTg=",
+      "title": "Fix idnit for author country",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/11",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Expand \"USA\" to \"United States of America\"",
+      "createdAt": "2021-07-09T22:01:11Z",
+      "updatedAt": "2021-07-09T23:17:50Z",
+      "closedAt": "2021-07-09T23:17:50Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Addressed by #12 ",
+          "createdAt": "2021-07-09T23:17:50Z",
+          "updatedAt": "2021-07-09T23:17:50Z"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "id": "I_kwDOFgO0Wc48XUBu",
+      "title": "Hacknet is still experimental and not production ready ",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/13",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "The Hacknet is very still very much an experiment for the NOC team. It is not a production service at the moment. I would like to think that we will be able to in the future but we can\u2019t have this in an RFC right now.",
+      "createdAt": "2021-10-01T00:18:45Z",
+      "updatedAt": "2021-10-20T01:48:57Z",
+      "closedAt": "2021-10-15T18:59:31Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Resolved by #14 ",
+          "createdAt": "2021-10-15T18:59:31Z",
+          "updatedAt": "2021-10-15T18:59:31Z"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "id": "I_kwDOFgO0Wc49cg_S",
+      "title": "Reference missing at \"Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist..",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/15",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Hi Chairs, Charles, \r\n\r\nExcellent document! Fully support - READY with a few nits! \r\n\r\n- Reference missing at \"Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist...\"\r\n- Replace CodiMD with notes.ietf.org (or HedgeDoc)\r\n- I was wondering for the security consideration - can the network/special networking capabilities provided for the hackathon be exploited?    \r\n- The document lacks an Informative reference section, all references are inline. Just making sure if that is the correct practice?   \r\n\r\nThanks! \r\nDhruv",
+      "createdAt": "2021-10-20T01:45:23Z",
+      "updatedAt": "2021-10-25T17:44:54Z",
+      "closedAt": "2021-10-25T17:44:54Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Dhruv had a look and approved the change.",
+          "createdAt": "2021-10-25T17:44:51Z",
+          "updatedAt": "2021-10-25T17:44:51Z"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "id": "I_kwDOFgO0Wc49chCe",
+      "title": "Replace CodiMD with notes.ietf.org (or HedgeDoc)",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/16",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Hi Chairs, Charles, \r\n\r\nExcellent document! Fully support - READY with a few nits! \r\n\r\n- Reference missing at \"Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist...\"\r\n- Replace CodiMD with notes.ietf.org (or HedgeDoc)\r\n- I was wondering for the security consideration - can the network/special networking capabilities provided for the hackathon be exploited?    \r\n- The document lacks an Informative reference section, all references are inline. Just making sure if that is the correct practice?   \r\n\r\nThanks! \r\nDhruv",
+      "createdAt": "2021-10-20T01:45:58Z",
+      "updatedAt": "2021-10-25T17:44:33Z",
+      "closedAt": "2021-10-25T17:44:33Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Dhruv had a look and approved the change.",
+          "createdAt": "2021-10-25T17:44:33Z",
+          "updatedAt": "2021-10-25T17:44:33Z"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "id": "I_kwDOFgO0Wc49chHN",
+      "title": "can the network/special networking capabilities provided for the hackathon be exploited?",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/17",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Hi Chairs, Charles, \r\n\r\nExcellent document! Fully support - READY with a few nits! \r\n\r\n- Reference missing at \"Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist...\"\r\n- Replace CodiMD with notes.ietf.org (or HedgeDoc)\r\n- I was wondering for the security consideration - can the network/special networking capabilities provided for the hackathon be exploited?    \r\n- The document lacks an Informative reference section, all references are inline. Just making sure if that is the correct practice?   \r\n\r\nThanks! \r\nDhruv",
+      "createdAt": "2021-10-20T01:46:52Z",
+      "updatedAt": "2021-11-03T02:16:31Z",
+      "closedAt": "2021-11-03T02:16:30Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Sean shared, \"Just about any network can be exploited. With this experiment we have put in some security but the idea it to have as open of a network as we can just like at an in person meeting. A user has to have a data tracker account to make use of the network and we expect people to respect it just a we would an in person meeting. If something is exploited address it just as we would at a meeting. \"",
+          "createdAt": "2021-10-26T14:03:22Z",
+          "updatedAt": "2021-10-26T14:03:22Z"
+        },
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Addressed by #21 ",
+          "createdAt": "2021-11-03T02:16:30Z",
+          "updatedAt": "2021-11-03T02:16:30Z"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "id": "I_kwDOFgO0Wc49chLr",
+      "title": "The document lacks an Informative reference section, all references are inline.",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/18",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Hi Chairs, Charles, \r\n\r\nExcellent document! Fully support - READY with a few nits! \r\n\r\n- Reference missing at \"Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist...\"\r\n- Replace CodiMD with notes.ietf.org (or HedgeDoc)\r\n- I was wondering for the security consideration - can the network/special networking capabilities provided for the hackathon be exploited?    \r\n- The document lacks an Informative reference section, all references are inline. Just making sure if that is the correct practice?   \r\n\r\nThanks! \r\nDhruv",
+      "createdAt": "2021-10-20T01:47:35Z",
+      "updatedAt": "2021-11-10T14:00:57Z",
+      "closedAt": "2021-11-10T14:00:57Z",
+      "comments": []
+    },
+    {
+      "number": 24,
+      "id": "I_kwDOFgO0Wc4_N3zT",
+      "title": "Update references as discussed during IETF 112",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/24",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "In order to be consistent, add references for remaining hyperlinks.\r\nReference titles should describe the referenced site rather than taking on the value of the text that appeared previously in the draft.",
+      "createdAt": "2021-11-22T21:16:02Z",
+      "updatedAt": "2021-11-22T21:27:49Z",
+      "closedAt": "2021-11-22T21:27:48Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Addressed by #25 ",
+          "createdAt": "2021-11-22T21:27:48Z",
+          "updatedAt": "2021-11-22T21:27:48Z"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "id": "I_kwDOFgO0Wc5AYRpx",
+      "title": "NDAs and code licenses",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/26",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "It was pointed out that with some past interoperability events one of the big issues was that of non-disclosure, which is not covered in the draft.  Participants, including rather proprietary companies, brought their source code.  Folks were concerned about leakage of failures and such.  These days the sense of corporate competition is much greater; there are often some serious dollar amounts at risk. Similarly minded Interop test events have a policy of not publishing results.  That comes from a desire to help people improve their code and not allow anyone to do competitive bashing of those who had problems. Efforts to find a usable NDA context failed  What was adopted something was akin to a \"be nice\" rule that suggested that one should only be specific about things that happened to one's own code and not say much about the experiences of others.\r\n\r\nThe IETF Hackathon operates in a much more open environment with much of the code being open source. Interoperability is just one aspect of the Hackathon. Many projects are proof of concepts. Others focus on adding support for a given protocol to established open source projects. Others are more tools related. In the case of interoperability, results are typicality shared publicly, per https://datatracker.ietf.org/doc/html/draft-ietf-shmoo-hackathon#section-4.2. We do not have any rules regarding what to share and what not to share. The Hackathon operates under the IETF Note Well in an attempt to deal with this.\r\nhttps://www.ietf.org/about/note-well/. That said, the rules and terms around the actual code are those of the license associated with that code. The code may be proprietary but it is typically open source. This point is covered at the start of each Hackathon, but I see now it is not mentioned in the draft. Perhaps it would be helpful to add it?",
+      "createdAt": "2021-12-14T18:55:49Z",
+      "updatedAt": "2022-01-19T16:54:21Z",
+      "closedAt": "2022-01-19T16:54:21Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Addressed by #28 ",
+          "createdAt": "2022-01-19T16:54:21Z",
+          "updatedAt": "2022-01-19T16:54:21Z"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "id": "I_kwDOFgO0Wc5Ay71Y",
+      "title": "update location of hackdemo and codelounge wiki pages ",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/issues/27",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "The hackdemo happy hour and code lounge wiki pages were previously child pages of the IETF meeting wiki page rather than the IETF Hackathon wiki page. Update to use the new location format.\r\n\r\n106hackdemo -> 113hackathon/hackdemo\r\n106codelounge -> 113hackathon/codelounge",
+      "createdAt": "2021-12-22T18:56:11Z",
+      "updatedAt": "2022-01-11T23:41:37Z",
+      "closedAt": "2022-01-11T23:41:37Z",
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 3,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjU1MjIyODMy",
+      "title": "add country to author details",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/3",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address issue #2 ",
+      "createdAt": "2021-05-27T17:52:12Z",
+      "updatedAt": "2021-05-27T18:18:48Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "7bd8a6f71e280ed6790e0091366ce8f663a31c48",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "eckel-unknown-country",
+      "headRefOid": "66a58f1d9aa15bce8fe5e5adfff849e67dea78f4",
+      "closedAt": "2021-05-27T17:54:11Z",
+      "mergedAt": "2021-05-27T17:54:11Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "19ea2c68e2fb5defd6fabefbfe1080f44c0f2e80"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 4,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjU2ODg2ODY5",
+      "title": "explain relation of draft to shmoo",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/4",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address issue #1 ",
+      "createdAt": "2021-05-28T18:10:02Z",
+      "updatedAt": "2021-06-28T18:05:07Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "19ea2c68e2fb5defd6fabefbfe1080f44c0f2e80",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "issue-farrel-why-doc-exists",
+      "headRefOid": "eaceb7b2d992f72780a079de3f57ee2c8e043e6b",
+      "closedAt": "2021-06-28T18:02:19Z",
+      "mergedAt": "2021-06-28T18:02:18Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "ad8fae57232b8a5477a9718c6c47fb397e1ec240"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 6,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjU3MTM2OTcz",
+      "title": "acknowledge contributions",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/6",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Expand acknowledgements section, including addressing issue #5 ",
+      "createdAt": "2021-05-28T21:42:06Z",
+      "updatedAt": "2021-05-28T21:52:06Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "19ea2c68e2fb5defd6fabefbfe1080f44c0f2e80",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "acknowledge-secretariat",
+      "headRefOid": "5148fc342f243c9a630b48c4a64de915d309ea20",
+      "closedAt": "2021-05-28T21:43:12Z",
+      "mergedAt": "2021-05-28T21:43:12Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "b13a23ad7e769036fe752c23a969ab340714c0ed"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 8,
+      "id": "MDExOlB1bGxSZXF1ZXN0Njg2Mjc4NTk2",
+      "title": "Add HackNet",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/8",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address issue #7 ",
+      "createdAt": "2021-07-08T19:44:12Z",
+      "updatedAt": "2021-07-08T19:45:37Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "ad8fae57232b8a5477a9718c6c47fb397e1ec240",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "hacknet",
+      "headRefOid": "9d90599471ae4e503589563d45eb18b80e4d8a53",
+      "closedAt": "2021-07-08T19:45:00Z",
+      "mergedAt": "2021-07-08T19:45:00Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "095c4a3a09ff38f85ce2fe666aee76c243a412f0"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 10,
+      "id": "MDExOlB1bGxSZXF1ZXN0Njg2MzY3NTg3",
+      "title": "Add Implementation Status section",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/10",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address issue #9 ",
+      "createdAt": "2021-07-08T22:37:41Z",
+      "updatedAt": "2021-07-08T22:39:17Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "1a8ba5bea291d4ded4d919ec3054f51e7b39a949",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "implementation-status",
+      "headRefOid": "212d577f33543ed19e16f16b27c172b7dbc048aa",
+      "closedAt": "2021-07-08T22:38:50Z",
+      "mergedAt": "2021-07-08T22:38:50Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "391f6d467a3179c9ddbe12badc386a9196425c42"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 12,
+      "id": "MDExOlB1bGxSZXF1ZXN0Njg3MDc5Nzk5",
+      "title": "expand USA per idnit tool",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/12",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "address issue #11 ",
+      "createdAt": "2021-07-09T23:08:48Z",
+      "updatedAt": "2021-07-09T23:16:31Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "7dc6168bddd0b1e948b97f598a771f24b4e9bba4",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "usa",
+      "headRefOid": "c2d2cf151a2826d5e2058f5dbc56fbc3cf6f34ae",
+      "closedAt": "2021-07-09T23:16:05Z",
+      "mergedAt": "2021-07-09T23:16:05Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "53b3a0304846464e26e007d3525b90245fea2e06"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 14,
+      "id": "PR_kwDOFgO0Wc4siOuS",
+      "title": "state experimental status of HackNet",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/14",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Proposed solution to issue #13 ",
+      "createdAt": "2021-10-01T01:22:13Z",
+      "updatedAt": "2021-10-15T18:51:10Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "b81e2469c822379f5658331849955e6a2b39beef",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "experimental",
+      "headRefOid": "c76f5fb25e27686b88d5db391c4093ed915a6ed3",
+      "closedAt": "2021-10-15T18:50:26Z",
+      "mergedAt": "2021-10-15T18:50:26Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "1e840c3ec5514349053abcbb15d0ea42fe55ef2e"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOFgO0Wc4ucGFn",
+          "commit": {
+            "abbreviatedOid": "5e5873e"
+          },
+          "author": "seancroghan",
+          "authorAssociation": "NONE",
+          "state": "APPROVED",
+          "body": "Charles the NOC reviewed the change and are comfortable with the update.  ",
+          "createdAt": "2021-10-13T21:43:04Z",
+          "updatedAt": "2021-10-13T21:43:04Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "id": "PR_kwDOFgO0Wc4tdIPc",
+      "title": "replace CodiMD with HedgeDoc",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/19",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Addressing #16 ",
+      "createdAt": "2021-10-20T18:30:48Z",
+      "updatedAt": "2021-10-25T17:41:18Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "1e840c3ec5514349053abcbb15d0ea42fe55ef2e",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "hedgedoc",
+      "headRefOid": "5da0549054c848391342c84ac8ebf1d84bd8df1a",
+      "closedAt": "2021-10-25T17:41:04Z",
+      "mergedAt": "2021-10-25T17:41:04Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "9635c9d3d328ca13efd02f89deafd58363ec997e"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 20,
+      "id": "PR_kwDOFgO0Wc4tdMqp",
+      "title": "add refs to hackdemo and code lounge sections",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/20",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address #15 ",
+      "createdAt": "2021-10-20T18:58:52Z",
+      "updatedAt": "2021-10-25T17:41:44Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "1e840c3ec5514349053abcbb15d0ea42fe55ef2e",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "missing-refs",
+      "headRefOid": "7a3b499defcc8e78b180b3e0156ae64e3c6005de",
+      "closedAt": "2021-10-25T17:41:38Z",
+      "mergedAt": "2021-10-25T17:41:38Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "314175e1e8ef291d1969909b624ed2c2a7bbc6cf"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 21,
+      "id": "PR_kwDOFgO0Wc4t9Ky7",
+      "title": "security considerations for HackNet",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/21",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address #17 ",
+      "createdAt": "2021-11-02T01:11:08Z",
+      "updatedAt": "2021-11-03T02:10:22Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "314175e1e8ef291d1969909b624ed2c2a7bbc6cf",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "sec-con",
+      "headRefOid": "49e43e7a2bedb5209be64bd24dde74876c2ec430",
+      "closedAt": "2021-11-03T02:09:49Z",
+      "mergedAt": "2021-11-03T02:09:48Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "b4cd82cf23ad0d4d5a8ee3958feb8111a7816676"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 22,
+      "id": "PR_kwDOFgO0Wc4uUEIz",
+      "title": "Informative",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/22",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Addresses #18 ",
+      "createdAt": "2021-11-09T21:40:19Z",
+      "updatedAt": "2021-11-10T20:14:56Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "b4cd82cf23ad0d4d5a8ee3958feb8111a7816676",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "informative",
+      "headRefOid": "89bbb7776ba79db81fe165fbc8fc42d35dc87e51",
+      "closedAt": "2021-11-10T13:50:39Z",
+      "mergedAt": "2021-11-10T13:50:39Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "24a1aaee4cb2d0cecefbe5adb55f59ea89efeeee"
+      },
+      "comments": [
+        {
+          "author": "dhruvdhody",
+          "authorAssociation": "NONE",
+          "body": "s/Dhruv Dhoty/Dhruv Dhody/ :)",
+          "createdAt": "2021-11-10T06:41:53Z",
+          "updatedAt": "2021-11-10T06:41:53Z"
+        },
+        {
+          "author": "dhruvdhody",
+          "authorAssociation": "NONE",
+          "body": "Looks good otherwise! ",
+          "createdAt": "2021-11-10T06:44:00Z",
+          "updatedAt": "2021-11-10T06:44:00Z"
+        },
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "> s/Dhruv Dhoty/Dhruv Dhody/ :)\r\n\r\nDoh! Sorry about that. Fixed. Thanks!",
+          "createdAt": "2021-11-10T13:48:53Z",
+          "updatedAt": "2021-11-10T13:48:53Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 23,
+      "id": "PR_kwDOFgO0Wc4ueLgZ",
+      "title": "update tooling",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/23",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-11-12T19:11:43Z",
+      "updatedAt": "2021-11-12T19:12:46Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "89740bf5e990f1bb49380ca7d2e9900902c85985",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "test",
+      "headRefOid": "160c00af0b76d6872f76f58f6f2db4078a1cfd20",
+      "closedAt": "2021-11-12T19:12:19Z",
+      "mergedAt": "2021-11-12T19:12:18Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "aca1b532312e4389420a0dd0c67d7b0d9ec681a1"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 25,
+      "id": "PR_kwDOFgO0Wc4u3_oq",
+      "title": "Update refs",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/25",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Add and update references to address #24 ",
+      "createdAt": "2021-11-22T21:20:20Z",
+      "updatedAt": "2021-11-22T21:30:36Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "6e63f3ec408ee5f7309dbdb326c5fce80c918129",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "update-refs",
+      "headRefOid": "776aa28ef7ee1577ff2a793d56c77828c81216b2",
+      "closedAt": "2021-11-22T21:24:32Z",
+      "mergedAt": "2021-11-22T21:24:32Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "5023a4a92c86447d79ab97ae614301aaa4f080d7"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 28,
+      "id": "PR_kwDOFgO0Wc4w03Oy",
+      "title": "Expand intro to include inclusive and open nature of the Hackathon and rules around code",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/28",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Addresses issue #26 ",
+      "createdAt": "2022-01-11T23:05:45Z",
+      "updatedAt": "2022-01-19T16:50:35Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "5023a4a92c86447d79ab97ae614301aaa4f080d7",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "nda",
+      "headRefOid": "3de3595c198022a383a87d6894d2301b5c426b23",
+      "closedAt": "2022-01-19T16:49:44Z",
+      "mergedAt": "2022-01-19T16:49:44Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "f27297188c1919a9e05c9f5345f9d8a655745149"
+      },
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "The PR addresses issue #26 ",
+          "createdAt": "2022-01-19T16:50:35Z",
+          "updatedAt": "2022-01-19T16:50:35Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 29,
+      "id": "PR_kwDOFgO0Wc4w062M",
+      "title": "update links for Code Lounge and Hackademo Happy Hour",
+      "url": "https://github.com/eckelcu/draft-ietf-shmoo-hackathon/pull/29",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Addresses issue #27 ",
+      "createdAt": "2022-01-11T23:36:08Z",
+      "updatedAt": "2022-01-11T23:38:43Z",
+      "baseRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "baseRefName": "main",
+      "baseRefOid": "5023a4a92c86447d79ab97ae614301aaa4f080d7",
+      "headRepository": "eckelcu/draft-ietf-shmoo-hackathon",
+      "headRefName": "hackdemo-codelounge",
+      "headRefOid": "5649c55bdf611d2926c680d7e9073beff0948b50",
+      "closedAt": "2022-01-11T23:38:18Z",
+      "mergedAt": "2022-01-11T23:38:18Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "37443d2d84093d44c3e65b27a15768126f9ee042"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
