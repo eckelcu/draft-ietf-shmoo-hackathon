@@ -254,7 +254,7 @@ The Code Lounge provides space for groups to gather and continue to collaborate 
 
 ## Code Sprint
 
-The IETF {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code Sprint existed long before the Hackathon and has its own identity and way of doing things. However, there is also a great deal of synergy between the Code Sprint and the Hackathon, and they attract some of the same participants. For example, some Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools. It is therefore advantageous to colocate these two events when practical, and when separate space is deemed helpful, to allocate spaces that are physically close to each other to make it easy for participants to switch back and forth between the two events.
+The IETF {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code Sprint existed long before the Hackathon and benefitted from being a focused event in a quiet space with few interruptions. However, there is a great deal of synergy between the Code Sprint and the Hackathon, and they attract some of the same participants. For example, some Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools. It is therefore advantageous to colocate these two events when practical, and when separate space is deemed helpful, to allocate spaces that are physically close to each other to make it easy for participants to switch back and forth between the two events.
 
 ## Online Only
 
