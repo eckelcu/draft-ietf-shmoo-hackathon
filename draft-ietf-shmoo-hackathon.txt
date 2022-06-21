@@ -4,8 +4,8 @@
 
 Stay Home Meet Occasionally Online                              C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                              13 June 2022
-Expires: 15 December 2022
+Intended status: Informational                              21 June 2022
+Expires: 23 December 2022
 
 
                        Running an IETF Hackathon
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 December 2022.
+   This Internet-Draft will expire on 23 December 2022.
 
 Copyright Notice
 
@@ -145,7 +145,7 @@ Table of Contents
    attract newcomers and those who do not typically view themselves as
    standards people, long time IETF contributors, including Internet-
    Draft authors, working group chairs, and subject-matter experts, are
-   key participants as well.  Group dynamics and blending of skillsets
+   key participants as well.  Group dynamics and blending of skill sets
    and perspectives are extremely valuable aspects of IETF Hackathons.
 
    In addition to the running code created and improved as a result of
@@ -312,11 +312,11 @@ Table of Contents
    Code Sprint and the Hackathon, and they attract some of the same
    participants.  For example, some Hackathon projects, such as those
    related to YANG model validation, involve the creation or
-   modification of IETF tools.  It is therefore advantageous to colocate
-   these two events when practical, and when separate space is deemed
-   helpful, to allocate spaces that are physically close to each other
-   to make it easy for participants to switch back and forth between the
-   two events.
+   modification of IETF tools.  It is therefore advantageous to co-
+   locate these two events when practical, and when separate space is
+   deemed helpful, to allocate spaces that are physically close to each
+   other to make it easy for participants to switch back and forth
+   between the two events.
 
 2.5.  Online Only
 
@@ -597,7 +597,7 @@ Table of Contents
 
 4.4.  Presenting in Person
 
-   Presentations are run from a shared ChromeBook at the front of the
+   Presentations are run from a shared Chromebook at the front of the
    Hackathon room.  This Chromebook is provided by the Secretariat.
 
 4.5.  Presenting Remotely
@@ -616,8 +616,8 @@ Table of Contents
 
    The [DATATRACKER] supports the notion of Teams that are not part of
    the standards development process.  The Hackathon exists as one such
-   Team.  From the datatracker menu, navigate to "Other" -> "Active
-   Teams" -> "Hackathon".  Here exists a datatracker space for the
+   Team.  From the Datatracker menu, navigate to "Other" -> "Active
+   Teams" -> "Hackathon".  Here exists a Datatracker space for the
    Hackathon similar to what is available for working groups, including
    meeting materials, agendas, etc.  Initially, there was some attempt
    to copy materials hosted in the [IETF-HACKATHON-GITHUB] to the
@@ -813,9 +813,10 @@ Table of Contents
    inception and continues to add more capabilities over time.
    Champions are able to request in advance wired access and special
    networking functionality, including static IPv4 and IPv6 addresses,
-   IPv6 only networking, a closed user group, NAT64, and IPv6PD.  All of
-   this, and the IETF network in general, is made available by the start
-   of the Hackathon and in advance for setup to the extent possible.
+   IPv6 only networking, a closed user group, NAT64, and IPv6 PD.  All
+   of this, and the IETF network in general, is made available by the
+   start of the Hackathon and in advance for setup to the extent
+   possible.
 
 5.8.1.  Remote Networking
 
@@ -1061,7 +1062,7 @@ Table of Contents
    IETF network while attending a meeting remotely.  The intent is for
    those connecting remotely to have as open a network as possible, just
    like those connecting to the IETF network at an in person meeting.  A
-   user must have a datatracker account to access HackNet and is
+   user must have a Datatracker account to access HackNet and is
    expected to respect it just as they are expected to respect the IETF
    network at an in person meeting.  If HackNet is exploited, it is
    addressed as an exploitation of the IETF network would be at an in
