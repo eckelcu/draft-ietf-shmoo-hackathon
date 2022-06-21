@@ -189,7 +189,7 @@ IETF Hackathons encourage the IETF community to collaborate on running code rela
 * Advance the pace and relevance of IETF standards activities by bringing the speed and collaborative spirit of open source development into the IETF
 * Bring developers and young people into IETF and get them exposed to and interested in the IETF
 
-IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessary developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and those who do not typically view themselves as standards people, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Group dynamics and blending of skillsets and perspectives are extremely valuable aspects of IETF Hackathons.
+IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessary developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and those who do not typically view themselves as standards people, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Group dynamics and blending of skill sets and perspectives are extremely valuable aspects of IETF Hackathons.
 
 In addition to the running code created and improved as a result of each Hackathon, the exchange of ideas, extensions of human networks, and establishment of trust, respect, and friendships are some of the most valuable outputs of each Hackathon. Code written in a programming language can be more illustrative and less confrontational than opinions expressed during a meeting or in an email. Working together to find common understanding of proposals, concerns, and solutions that result in improvements to evolving Internet standards is as important as the development of running code that implements or validates the correctness of these same proposals.
 
@@ -254,7 +254,7 @@ The Code Lounge provides space for groups to gather and continue to collaborate 
 
 ## Code Sprint
 
-The IETF {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code Sprint existed long before the Hackathon and benefitted from being a focused event in a quiet space with few interruptions. However, there is a great deal of synergy between the Code Sprint and the Hackathon, and they attract some of the same participants. For example, some Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools. It is therefore advantageous to colocate these two events when practical, and when separate space is deemed helpful, to allocate spaces that are physically close to each other to make it easy for participants to switch back and forth between the two events.
+The IETF {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code Sprint existed long before the Hackathon and benefitted from being a focused event in a quiet space with few interruptions. However, there is a great deal of synergy between the Code Sprint and the Hackathon, and they attract some of the same participants. For example, some Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools. It is therefore advantageous to co-locate these two events when practical, and when separate space is deemed helpful, to allocate spaces that are physically close to each other to make it easy for participants to switch back and forth between the two events.
 
 ## Online Only
 
@@ -383,7 +383,7 @@ Presenters are asked to do this at their earliest convenience as the Chair(s) ty
 
 ## Presenting in Person
 
-Presentations are run from a shared ChromeBook at the front of the Hackathon room. This Chromebook is provided by the Secretariat.
+Presentations are run from a shared Chromebook at the front of the Hackathon room. This Chromebook is provided by the Secretariat.
 
 ## Presenting Remotely
 
@@ -395,7 +395,7 @@ The IETF Hackathon uses the same tooling used by the IETF community for its work
 
 ## Datatracker
 
-The {{DATATRACKER}} supports the notion of Teams that are not part of the standards development process. The Hackathon exists as one such Team. From the datatracker menu, navigate to "Other" -> "Active Teams" -> "Hackathon". Here exists a datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in the {{IETF-HACKATHON-GITHUB}} to the Datatracker. Now this is done only when required for integration with other IETF tooling, including to:
+The {{DATATRACKER}} supports the notion of Teams that are not part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to "Other" -> "Active Teams" -> "Hackathon". Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in the {{IETF-HACKATHON-GITHUB}} to the Datatracker. Now this is done only when required for integration with other IETF tooling, including to:
 
 * {{REQUEST-SESSIONS}} for the Hackathon kickoff and closing, and for Hackdemo Happy Hour
 * post {{AGENDAS}}
@@ -498,7 +498,7 @@ A repository is created and maintained by the Chairs for each Hackathon, e.g., {
 
 Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered Internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the Internet and each other via wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required.
 
-The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.
+The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6 PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.
 
 ### Remote Networking
 
@@ -606,7 +606,7 @@ The practices described in this document have been established, used, and refine
 
 # Security Considerations
 
-[HackNet](#remote-networking) enables Hackathon participants to join the IETF network while attending a meeting remotely. The intent is for those connecting remotely to have as open a network as possible, just like those connecting to the IETF network at an in person meeting. A user must have a datatracker account to access HackNet and is expected to respect it just as they are expected to respect the IETF network at an in person meeting. If HackNet is exploited, it is addressed as an exploitation of the IETF network would be at an in person meeting.
+[HackNet](#remote-networking) enables Hackathon participants to join the IETF network while attending a meeting remotely. The intent is for those connecting remotely to have as open a network as possible, just like those connecting to the IETF network at an in person meeting. A user must have a Datatracker account to access HackNet and is expected to respect it just as they are expected to respect the IETF network at an in person meeting. If HackNet is exploited, it is addressed as an exploitation of the IETF network would be at an in person meeting.
 
 ## Privacy Considerations
 
