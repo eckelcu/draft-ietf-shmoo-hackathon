@@ -428,7 +428,7 @@ An active list of all registered participants, e.g., {{PARTICIPANTS}}, is mainta
 
 ### Caps on Registrations
 
-Registrations were capped for the first several Hackathons. This was done both for space and costs considerations. The cap was hit multiple times, each time resulting in temporary confusion and frustration among would be registrants, followed by the cap being increased. Currently, there are no caps enforced by the registration system.
+Registrations were capped for the first several Hackathons. This was done both for space and costs considerations. The cap was hit multiple times, each time resulting in temporary confusion and frustration among would be registrants, followed by the cap being increased. Currently, there are no caps enforced by the registration system. In the event the number of participants exceeds the capacity of the main Hackathon room, designated overflow areas within the meeting venue are made available.
 
 ## Meeting Wiki
 
