@@ -4,8 +4,8 @@
 
 Stay Home Meet Occasionally Online                              C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                              21 June 2022
-Expires: 23 December 2022
+Intended status: Informational                              13 July 2022
+Expires: 14 January 2023
 
 
                        Running an IETF Hackathon
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 December 2022.
+   This Internet-Draft will expire on 14 January 2023.
 
 Copyright Notice
 
@@ -140,7 +140,7 @@ Table of Contents
 
    IETF Hackathons are free to attend and open to everyone.  Software
    developers are the primary audience, but participation by subject-
-   matter experts who are not necessary developers is encouraged and
+   matter experts who are not necessarily developers is encouraged and
    very important as well.  Similarly, while the Hackathon is meant to
    attract newcomers and those who do not typically view themselves as
    standards people, long time IETF contributors, including Internet-
@@ -237,7 +237,7 @@ Table of Contents
 
    The time on Saturday morning provides team champions time for setup
    and participants time to socialize and learn more about projects and
-   team they might want to join.  The kickoff presentation and
+   teams they might want to join.  The kickoff presentation and
    formalities are kept to minimum to leave as much time as possible for
    team to work together with their team on their projects.  The
    proximity of teams to each other fosters communication and
@@ -813,10 +813,10 @@ Table of Contents
    inception and continues to add more capabilities over time.
    Champions are able to request in advance wired access and special
    networking functionality, including static IPv4 and IPv6 addresses,
-   IPv6 only networking, a closed user group, NAT64, and IPv6 PD.  All
-   of this, and the IETF network in general, is made available by the
-   start of the Hackathon and in advance for setup to the extent
-   possible.
+   IPv6 only networking, a closed user group, NAT64, and IPv6 Prefix
+   Delegation.  All of this, and the IETF network in general, is made
+   available by the start of the Hackathon and in advance for setup to
+   the extent possible.
 
 5.8.1.  Remote Networking
 
