@@ -189,7 +189,7 @@ IETF Hackathons encourage the IETF community to collaborate on running code rela
 * Advance the pace and relevance of IETF standards activities by bringing the speed and collaborative spirit of open source development into the IETF
 * Bring developers and young people into IETF and get them exposed to and interested in the IETF
 
-IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessary developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and those who do not typically view themselves as standards people, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Group dynamics and blending of skill sets and perspectives are extremely valuable aspects of IETF Hackathons.
+IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessarily developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and those who do not typically view themselves as standards people, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Group dynamics and blending of skill sets and perspectives are extremely valuable aspects of IETF Hackathons.
 
 In addition to the running code created and improved as a result of each Hackathon, the exchange of ideas, extensions of human networks, and establishment of trust, respect, and friendships are some of the most valuable outputs of each Hackathon. Code written in a programming language can be more illustrative and less confrontational than opinions expressed during a meeting or in an email. Working together to find common understanding of proposals, concerns, and solutions that result in improvements to evolving Internet standards is as important as the development of running code that implements or validates the correctness of these same proposals.
 
@@ -228,7 +228,7 @@ The typical agenda is as follows:
         16:00: Hackathon ends
         17:00: Tear down complete
 
-The time on Saturday morning provides team champions time for setup and participants time to socialize and learn more about projects and team they might want to join. The kickoff presentation and formalities are kept to minimum to leave as much time as possible for team to work together with their team on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.
+The time on Saturday morning provides team champions time for setup and participants time to socialize and learn more about projects and teams they might want to join. The kickoff presentation and formalities are kept to minimum to leave as much time as possible for team to work together with their team on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.
 
 Lunch and dinner are provided as a convenience and an incentive to remain at the Hackathon. Participants are free to come and go as they like. It is well understood and accepted that there are other things vying for time and that meeting with friends and colleagues outside of the Hackathon is an entirely reasonable thing to do.
 
@@ -498,7 +498,7 @@ A repository is created and maintained by the Chairs for each Hackathon, e.g., {
 
 Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered Internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the Internet and each other via wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required.
 
-The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6 PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.
+The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6 Prefix Delegation. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.
 
 ### Remote Networking
 
