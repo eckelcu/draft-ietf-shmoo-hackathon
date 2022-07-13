@@ -176,6 +176,14 @@ informative:
     title: "IETF Code Sprint"
     target: "https://www.ietf.org/how/runningcode/code-sprint/"
 
+  BITS-N-BITES:
+    title: "IETF Bits-N-Bites"
+    target: "https://www.ietf.org/how/meetings/98/bits-n-bites/"
+
+  IETF-IRTF-IAB-PRIVACY-STATEMENT:
+    title: "IETF/IRTF/IAB Privacy Statement"
+    target: "https://www.ietf.org/privacy-statement/"
+
 --- abstract
 
 IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. This document provides a set of practices that have been used for running IETF Hackathons. These practices apply to Hackathons in which both in-person and remote participation are possible with adaptations for Hackathons that are online only.
@@ -187,13 +195,13 @@ IETF Hackathons encourage the IETF community to collaborate on running code rela
 IETF Hackathons encourage the IETF community to collaborate on running code related to existing and evolving Internet standards. IETF Hackathons aim to:
 
 * Advance the pace and relevance of IETF standards activities by bringing the speed and collaborative spirit of open source development into the IETF
-* Bring developers and young people into IETF and get them exposed to and interested in the IETF
+* Bring developers and early career professionals into IETF and get them exposed to and interested in the IETF
 
-IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessary developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and those who do not typically view themselves as standards people, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Group dynamics and blending of skill sets and perspectives are extremely valuable aspects of IETF Hackathons.
+IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessary developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and people who do not typically attend standards meetings, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Collaboration and blending of skill sets and perspectives are extremely valuable aspects of IETF Hackathons.
 
 In addition to the running code created and improved as a result of each Hackathon, the exchange of ideas, extensions of human networks, and establishment of trust, respect, and friendships are some of the most valuable outputs of each Hackathon. Code written in a programming language can be more illustrative and less confrontational than opinions expressed during a meeting or in an email. Working together to find common understanding of proposals, concerns, and solutions that result in improvements to evolving Internet standards is as important as the development of running code that implements or validates the correctness of these same proposals.
 
-Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving Internet standards. IETF Hackathons are inclusive, not only in terms of who can participate but also in terms of the projects included in each Hackathon. All projects should be related to existing or proposed Internet standards in some way. Examples include, but are not limited to, interoperability of implementations, proof of concepts, and tools.
+Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving Internet standards. IETF Hackathons are inclusive, not only in terms of who can participate but also in terms of the projects included in each Hackathon. All projects should be related to existing or proposed Internet standards in some way. Examples include, but are not limited to, interoperability of implementations, proof of concepts, and tools that help implement, monitor, or deploy network protocols.
 
 IETF Hackathons foster an open environment, with much of the code being open source and projects results typically shared publicly. The Hackathon operates under the {{NOTE-WELL}}; however, the rules and terms around code are those of the license associated with the code. Although code is often and preferably open source, it may be proprietary as well.
 
@@ -242,7 +250,7 @@ The end of the Hackathon on Sunday is driven by other IETF meeting events. There
 
 Hackdemo Happy Hour provides an opportunity for more in depth sharing and discussion than is possible within the time constraints of the result presentations that occur at the end of the Hackathon. This opportunity is made available to all teams. As with the results presentations, participation is optional.
 
-Initially, we did something similar as part of Bits and Bites. This worked well for the Hackathon but the Bits and Bites event was eventually abandoned for other reasons. Hackdemo Happy Hour was created as a low cost, informal event to provide a venue for the IETF community to engage with the Hackathon teams in more in depth discussions related to their projects.
+Initially, something similar was done as part of {{BITS-N-BITES}}. This worked well for the Hackathon but the Bits-N-Bites event was eventually abandoned for other reasons. Hackdemo Happy Hour was created as a low cost, informal event to provide a venue for the IETF community to engage with the Hackathon teams in more in depth discussions related to their projects.
 
 Hackdemo Happy Hour is typically Monday evening, roughly from 18:00 - 19:30, often overlapping a bit with the last working group session of the day but continuing long enough to allow everyone an opportunity to join. The goal is to make it convenient to attend by not conflicting with other meetings but also no running too late into the night.
 
@@ -254,7 +262,7 @@ The Code Lounge provides space for groups to gather and continue to collaborate 
 
 ## Code Sprint
 
-The IETF {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code Sprint existed long before the Hackathon and benefitted from being a focused event in a quiet space with few interruptions. However, there is a great deal of synergy between the Code Sprint and the Hackathon, and they attract some of the same participants. For example, some Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools. It is therefore advantageous to co-locate these two events when practical, and when separate space is deemed helpful, to allocate spaces that are physically close to each other to make it easy for participants to switch back and forth between the two events.
+The {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code Sprint existed long before the Hackathon and benefitted from being a focused event in a quiet space with few interruptions. However, there is a great deal of synergy between the Code Sprint and the Hackathon, and they attract some of the same participants. For example, some Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools. It is therefore advantageous to co-locate these two events when practical, and when separate space is deemed helpful, to allocate spaces that are physically close to each other to make it easy for participants to switch back and forth between the two events.
 
 ## Online Only
 
@@ -582,7 +590,7 @@ Champions of projects are the key to a successful Hackathon. Key responsibilitie
 
 * Volunteer to lead a project at the Hackathon
 * Serve as primary contact for the project
-* Add and manage information on the Hackathon wiki for the project
+* Add and manage information on the Hackathon wiki for the project, including [Hackdemo Happy Hour](#hackdemo-happy-hour), [Code Lounge](#code-lounge), and [Team Schedule](#team-schedule) pages
 * Promote the project to appropriate groups inside IETF and outside as well
 * Welcome and organize members of the team
 * Provide focus, guidance, and leadership for the project
@@ -610,10 +618,13 @@ The practices described in this document have been established, used, and refine
 
 ## Privacy Considerations
 
+The Hackathon complies with the {{IETF-IRTF-IAB-PRIVACY-STATEMENT}}.
+
 Participant names are displayed publicly in the [Participant List](#participant-list). As part of their registration, participants may opt in to display their email address as well.
 
 The email addresses of individual champions are often shared publicly by the champions on the wiki. This is done voluntarily by individual champions to make it easier for others to contact them.
 
+Photos taken during Hackathon, and during the IETF meeting in general, are sometimes included in blog posts or on social media. Red lanyards are made availale to Hackathon participants to wear to indicate that they do not wish to be photographed individually or in small groups.
 
 # IANA Considerations
 
