@@ -677,7 +677,9 @@ Table of Contents
    multiple times, each time resulting in temporary confusion and
    frustration among would be registrants, followed by the cap being
    increased.  Currently, there are no caps enforced by the registration
-   system.
+   system.  In the event the number of participants exceeds the capacity
+   of the main Hackathon room, designated overflow areas within the
+   meeting venue are made available.
 
 5.4.  Meeting Wiki
 
