@@ -34,7 +34,7 @@ informative:
 
   IETF-RUNNING-CODE-SPONSOR:
     title: "IETF Running Code Sponsor"
-    target: "https://www.ietf.org/about/support/#running-code/"
+    target: "https://www.ietf.org/support-us/sponsorship/#running-code"
 
   REMARK:
     title: "remark GitHub Repository"
@@ -162,7 +162,7 @@ informative:
 
   TICKET:
     title: "IETF Support Email Alias"
-    target: "mailto://tickets@meeting.ietf.org"
+    target: "mailto:tickets@meeting.ietf.org"
 
   RIPE-CALENDAR:
     title: "RIPE Upcoming Events"
