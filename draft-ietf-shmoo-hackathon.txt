@@ -4,8 +4,8 @@
 
 Stay Home Meet Occasionally Online                              C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                              13 July 2022
-Expires: 14 January 2023
+Intended status: Informational                              20 July 2022
+Expires: 21 January 2023
 
 
                        Running an IETF Hackathon
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 14 January 2023.
+   This Internet-Draft will expire on 21 January 2023.
 
 Copyright Notice
 
@@ -1160,8 +1160,8 @@ Table of Contents
               <https://github.com/ietf-hackathon/>.
 
    [IETF-RUNNING-CODE-SPONSOR]
-              "IETF Running Code Sponsor", n.d.,
-              <https://www.ietf.org/about/support/#running-code/>.
+              "IETF Running Code Sponsor", n.d., <https://www.ietf.org/
+              support-us/sponsorship/#running-code>.
 
    [LOST-AND-FOUND]
               "IETF 110 Hackathon Lost and Found", n.d.,
@@ -1225,7 +1225,7 @@ Table of Contents
               wiki/110hackathon/teamschedule>.
 
    [TICKET]   "IETF Support Email Alias", n.d.,
-              <mailto://tickets@meeting.ietf.org>.
+              <mailto:tickets@meeting.ietf.org>.
 
    [WEBEX-ACCOUNT]
               "IETF Webex Account", n.d.,
