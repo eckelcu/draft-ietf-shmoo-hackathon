@@ -152,12 +152,12 @@ Table of Contents
    each Hackathon, the exchange of ideas, extensions of human networks,
    and establishment of trust, respect, and friendships are some of the
    most valuable outputs of each Hackathon.  Code written in a
-   programming language can be more illustrative and less
-   confrontational than opinions expressed during a meeting or in an
-   email.  Working together to find common understanding of proposals,
-   concerns, and solutions that result in improvements to evolving
-   Internet standards is as important as the development of running code
-   that implements or validates the correctness of these same proposals.
+   programming language is often more illustrative and constructive than
+   opinions expressed during a meeting or in an email.  Working together
+   to find common understanding of proposals, concerns, and solutions
+   that result in improvements to evolving Internet standards is as
+   important as the development of running code that implements or
+   validates the correctness of these same proposals.
 
    Consequently, IETF Hackathons are collaborative events, not
    competitions.  Any competitiveness among participants is friendly and
@@ -677,7 +677,9 @@ Table of Contents
    multiple times, each time resulting in temporary confusion and
    frustration among would be registrants, followed by the cap being
    increased.  Currently, there are no caps enforced by the registration
-   system.
+   system.  In the event the number of participants exceeds the capacity
+   of the main Hackathon room, designated overflow areas within the
+   meeting venue are made available.
 
 5.4.  Meeting Wiki
 
