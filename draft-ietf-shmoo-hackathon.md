@@ -34,7 +34,7 @@ informative:
 
   IETF-RUNNING-CODE-SPONSOR:
     title: "IETF Running Code Sponsor"
-    target: "https://www.ietf.org/about/support/#running-code/"
+    target: "https://www.ietf.org/support-us/sponsorship/#running-code"
 
   REMARK:
     title: "remark GitHub Repository"
@@ -162,7 +162,7 @@ informative:
 
   TICKET:
     title: "IETF Support Email Alias"
-    target: "mailto://tickets@meeting.ietf.org"
+    target: "mailto:tickets@meeting.ietf.org"
 
   RIPE-CALENDAR:
     title: "RIPE Upcoming Events"
@@ -197,7 +197,7 @@ IETF Hackathons encourage the IETF community to collaborate on running code rela
 * Advance the pace and relevance of IETF standards activities by bringing the speed and collaborative spirit of open source development into the IETF
 * Bring developers and early career professionals into IETF and get them exposed to and interested in the IETF
 
-IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessary developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and people who do not typically attend standards meetings, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Collaboration and blending of skill sets and perspectives are extremely valuable aspects of IETF Hackathons.
+IETF Hackathons are free to attend and open to everyone. Software developers are the primary audience, but participation by subject-matter experts who are not necessarily developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and people who do not typically attend standards meetings, long time IETF contributors, including Internet-Draft authors, working group chairs, and subject-matter experts, are key participants as well. Collaboration and blending of skill sets and perspectives are extremely valuable aspects of IETF Hackathons.
 
 In addition to the running code created and improved as a result of each Hackathon, the exchange of ideas, extensions of human networks, and establishment of trust, respect, and friendships are some of the most valuable outputs of each Hackathon. Code written in a programming language can be more illustrative and less confrontational than opinions expressed during a meeting or in an email. Working together to find common understanding of proposals, concerns, and solutions that result in improvements to evolving Internet standards is as important as the development of running code that implements or validates the correctness of these same proposals.
 
@@ -213,7 +213,7 @@ The first IETF Hackathon was held the weekend before the start of the IETF 92 me
 
 ## Agenda
 
-The IETF Hackathon is a strenuous event. Though not a competition, participants want to make the most of their time together, much as with the IETF meeting in general. Competitive Hackathons typically run non-stop for on the order of 40 hours. There is a strict deadline and teams are judged and winners declared at the end. Afterward everyone is wiped out and heads off to briefly celebrate or commiserate, but mainly to recuperate. As the IETF Hackathon serves as the start of the overall IETF meeting, we aim to strike a compromise that provides enjoy time to get valuable work accomplished without exhausting themselves before the main IETF meeting even starts. While some people participate in the Hackathon only, the majority of people remain and plan to be actively engaged in the rest of the IETF meeting.
+The IETF Hackathon is a strenuous event. Though not a competition, participants want to make the most of their time together, much as with the IETF meeting in general. Competitive Hackathons typically run non-stop for on the order of 40 hours. There is a strict deadline and teams are judged and winners declared at the end. Afterward, participants are wiped out and head off to briefly celebrate or commiserate, but mainly to recuperate. As the IETF Hackathon serves as the start of the overall IETF meeting, we aim to strike a compromise that provides time to get valuable work accomplished without exhausting everyone before the main IETF meeting starts. While some people participate in the Hackathon only, the majority remain and plan to be actively engaged in the rest of the IETF meeting.
 
 The typical agenda is as follows:
 
@@ -236,7 +236,7 @@ The typical agenda is as follows:
         16:00: Hackathon ends
         17:00: Tear down complete
 
-The time on Saturday morning provides team champions time for setup and participants time to socialize and learn more about projects and team they might want to join. The kickoff presentation and formalities are kept to minimum to leave as much time as possible for team to work together with their team on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.
+The time on Saturday morning provides team champions time for setup and participants time to socialize and learn more about projects and teams they might want to join. The kickoff presentation and formalities are kept to minimum to leave as much time as possible for team to work together with their team on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.
 
 Lunch and dinner are provided as a convenience and an incentive to remain at the Hackathon. Participants are free to come and go as they like. It is well understood and accepted that there are other things vying for time and that meeting with friends and colleagues outside of the Hackathon is an entirely reasonable thing to do.
 
@@ -268,7 +268,7 @@ The {{CODE-SPRINT}} develops tools that support the work of the IETF. The Code S
 
 The IETF 107 Hackathon was originally scheduled to be the weekend at the start of the IETF meeting in Vancouver. When COVID-19 hit and it became clear the IETF meeting could not occur in person, the Hackathon already had 23 projects and 176 registrations. With only 10 days until the anticipated start of the Hackathon, a {{SURVEY}} went out to the Hackathon community, including all project champions and registered participants, to see if they wanted to participate in the Hackathon exactly as planned except with everyone participating remotely rather than in person. A relatively small number of people expressed interest in participating, with even fewer wanting to continue to champion their projects. The fact that the Hackathon was planned for the weekend before the IETF meeting and in the local time zone, both of which were historically very convenient and attractive to Hackathon participants, suddenly became huge obstacles. Consequently, the IETF 107 Hackathon was cancelled.
 
-We knew more in advance that IETF 108 would be an online only meeting. We moved and expanded the schedule to run the entire work week before the rest of the IETF meeting. The Hackathon kickoff was set for Monday, the closing for Friday, with all the time in between left for individual project teams to arrange to meet how and when was most convenient for them. The kickoff and closing sessions were schedule to align with the time frame established for the IETF 108 meeting. All of this was, of course, not ideal, and it worked much better for some people than for others, but at least everyone knew the plan and corresponding time commitment well in advance and had the ability to plan accordingly.
+We knew more in advance that IETF 108 would be an online only meeting. We moved and expanded the schedule to run the entire work week before the rest of the IETF meeting. The Hackathon kickoff was set for Monday, the closing for Friday, with all the time in between left for individual project teams to arrange to meet how and when was most convenient for them. The kickoff and closing sessions were scheduled to align with the time frame established for the IETF 108 meeting. All of this was, of course, not ideal, and it worked much better for some people than for others, but at least everyone knew the plan and corresponding time commitment well in advance and had the ability to plan accordingly.
 
 We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All results presentations as well as the agenda and a recording of the closing session are available via the {{IETF-108-HACKATHON-WIKI}}. This level of participation was strong enough to be considered a success and justify including the Hackathon in future online only IETF meetings.
 
@@ -403,7 +403,7 @@ The IETF Hackathon uses the same tooling used by the IETF community for its work
 
 ## Datatracker
 
-The {{DATATRACKER}} supports the notion of Teams that are not part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to "Other" -> "Active Teams" -> "Hackathon". Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in the {{IETF-HACKATHON-GITHUB}} to the Datatracker. Now this is done only when required for integration with other IETF tooling, including to:
+The {{DATATRACKER}} supports the notion of Teams that are not part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to "Groups" -> "Other" -> "Active Teams" -> "hackathon". Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in the {{IETF-HACKATHON-GITHUB}} to the Datatracker. Now this is done only when required for integration with other IETF tooling, including to:
 
 * {{REQUEST-SESSIONS}} for the Hackathon kickoff and closing, and for Hackdemo Happy Hour
 * post {{AGENDAS}}
@@ -506,7 +506,7 @@ A repository is created and maintained by the Chairs for each Hackathon, e.g., {
 
 Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered Internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the Internet and each other via wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required.
 
-The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6 PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.
+The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6 Prefix Delegation. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.
 
 ### Remote Networking
 
