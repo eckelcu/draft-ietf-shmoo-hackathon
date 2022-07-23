@@ -135,18 +135,18 @@ Table of Contents
       bringing the speed and collaborative spirit of open source
       development into the IETF
 
-   *  Bring developers and young people into IETF and get them exposed
-      to and interested in the IETF
+   *  Bring developers and early career professionals into IETF and get
+      them exposed to and interested in the IETF
 
    IETF Hackathons are free to attend and open to everyone.  Software
    developers are the primary audience, but participation by subject-
    matter experts who are not necessarily developers is encouraged and
    very important as well.  Similarly, while the Hackathon is meant to
-   attract newcomers and those who do not typically view themselves as
-   standards people, long time IETF contributors, including Internet-
-   Draft authors, working group chairs, and subject-matter experts, are
-   key participants as well.  Group dynamics and blending of skill sets
-   and perspectives are extremely valuable aspects of IETF Hackathons.
+   attract newcomers and people who do not typically attend standards
+   meetings, long time IETF contributors, including Internet-Draft
+   authors, working group chairs, and subject-matter experts, are key
+   participants as well.  Collaboration and blending of skill sets and
+   perspectives are extremely valuable aspects of IETF Hackathons.
 
    In addition to the running code created and improved as a result of
    each Hackathon, the exchange of ideas, extensions of human networks,
@@ -167,7 +167,8 @@ Table of Contents
    each Hackathon.  All projects should be related to existing or
    proposed Internet standards in some way.  Examples include, but are
    not limited to, interoperability of implementations, proof of
-   concepts, and tools.
+   concepts, and tools that help implement, monitor, or deploy network
+   protocols.
 
    IETF Hackathons foster an open environment, with much of the code
    being open source and projects results typically shared publicly.
@@ -275,8 +276,8 @@ Table of Contents
    opportunity is made available to all teams.  As with the results
    presentations, participation is optional.
 
-   Initially, we did something similar as part of Bits and Bites.  This
-   worked well for the Hackathon but the Bits and Bites event was
+   Initially, something similar was done as part of [BITS-N-BITES].
+   This worked well for the Hackathon but the Bits-N-Bites event was
    eventually abandoned for other reasons.  Hackdemo Happy Hour was
    created as a low cost, informal event to provide a venue for the IETF
    community to engage with the Hackathon teams in more in depth
@@ -305,18 +306,17 @@ Table of Contents
 
 2.4.  Code Sprint
 
-   The IETF [CODE-SPRINT] develops tools that support the work of the
-   IETF.  The Code Sprint existed long before the Hackathon and
-   benefitted from being a focused event in a quiet space with few
-   interruptions.  However, there is a great deal of synergy between the
-   Code Sprint and the Hackathon, and they attract some of the same
-   participants.  For example, some Hackathon projects, such as those
-   related to YANG model validation, involve the creation or
-   modification of IETF tools.  It is therefore advantageous to co-
-   locate these two events when practical, and when separate space is
-   deemed helpful, to allocate spaces that are physically close to each
-   other to make it easy for participants to switch back and forth
-   between the two events.
+   The [CODE-SPRINT] develops tools that support the work of the IETF.
+   The Code Sprint existed long before the Hackathon and benefitted from
+   being a focused event in a quiet space with few interruptions.
+   However, there is a great deal of synergy between the Code Sprint and
+   the Hackathon, and they attract some of the same participants.  For
+   example, some Hackathon projects, such as those related to YANG model
+   validation, involve the creation or modification of IETF tools.  It
+   is therefore advantageous to co-locate these two events when
+   practical, and when separate space is deemed helpful, to allocate
+   spaces that are physically close to each other to make it easy for
+   participants to switch back and forth between the two events.
 
 2.5.  Online Only
 
@@ -1004,7 +1004,9 @@ Table of Contents
 
    *  Serve as primary contact for the project
 
-   *  Add and manage information on the Hackathon wiki for the project
+   *  Add and manage information on the Hackathon wiki for the project,
+      including Hackdemo Happy Hour (Section 2.2), Code Lounge
+      (Section 2.3), and Team Schedule (Section 5.4.5.1) pages
 
    *  Promote the project to appropriate groups inside IETF and outside
       as well
@@ -1070,6 +1072,8 @@ Table of Contents
 
 9.1.  Privacy Considerations
 
+   The Hackathon complies with the [IETF-IRTF-IAB-PRIVACY-STATEMENT].
+
    Participant names are displayed publicly in the Participant List
    (Section 5.3.1).  As part of their registration, participants may opt
    in to display their email address as well.
@@ -1077,6 +1081,12 @@ Table of Contents
    The email addresses of individual champions are often shared publicly
    by the champions on the wiki.  This is done voluntarily by individual
    champions to make it easier for others to contact them.
+
+   Photos taken during Hackathon, and during the IETF meeting in
+   general, are sometimes included in blog posts or on social media.
+   Red lanyards are made availale to Hackathon participants to wear to
+   indicate that they do not wish to be photographed individually or in
+   small groups.
 
 10.  IANA Considerations
 
@@ -1086,6 +1096,10 @@ Table of Contents
 
    [AGENDAS]  "IETF Meeting Agenda", n.d.,
               <https://datatracker.ietf.org/meeting/agenda/>.
+
+   [BITS-N-BITES]
+              "IETF Bits-N-Bites", n.d.,
+              <https://www.ietf.org/how/meetings/98/bits-n-bites/>.
 
    [CODE-LOUNGE]
               "IETF 113 Code Lounge", n.d.,
@@ -1158,6 +1172,10 @@ Table of Contents
    [IETF-HACKATHON-GITHUB]
               "IETF-Hackathon GitHub", n.d.,
               <https://github.com/ietf-hackathon/>.
+
+   [IETF-IRTF-IAB-PRIVACY-STATEMENT]
+              "IETF/IRTF/IAB Privacy Statement", n.d.,
+              <https://www.ietf.org/privacy-statement/>.
 
    [IETF-RUNNING-CODE-SPONSOR]
               "IETF Running Code Sponsor", n.d., <https://www.ietf.org/
