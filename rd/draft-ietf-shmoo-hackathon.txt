@@ -4,8 +4,8 @@
 
 Stay Home Meet Occasionally Online                              C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                              13 July 2022
-Expires: 14 January 2023
+Intended status: Informational                              23 July 2022
+Expires: 24 January 2023
 
 
                        Running an IETF Hackathon
@@ -47,7 +47,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 14 January 2023.
+   This Internet-Draft will expire on 24 January 2023.
 
 Copyright Notice
 
@@ -140,7 +140,7 @@ Table of Contents
 
    IETF Hackathons are free to attend and open to everyone.  Software
    developers are the primary audience, but participation by subject-
-   matter experts who are not necessary developers is encouraged and
+   matter experts who are not necessarily developers is encouraged and
    very important as well.  Similarly, while the Hackathon is meant to
    attract newcomers and people who do not typically attend standards
    meetings, long time IETF contributors, including Internet-Draft
@@ -206,14 +206,14 @@ Table of Contents
    with the IETF meeting in general.  Competitive Hackathons typically
    run non-stop for on the order of 40 hours.  There is a strict
    deadline and teams are judged and winners declared at the end.
-   Afterward everyone is wiped out and heads off to briefly celebrate or
-   commiserate, but mainly to recuperate.  As the IETF Hackathon serves
-   as the start of the overall IETF meeting, we aim to strike a
-   compromise that provides enjoy time to get valuable work accomplished
-   without exhausting themselves before the main IETF meeting even
+   Afterward, participants are wiped out and head off to briefly
+   celebrate or commiserate, but mainly to recuperate.  As the IETF
+   Hackathon serves as the start of the overall IETF meeting, we aim to
+   strike a compromise that provides time to get valuable work
+   accomplished without exhausting everyone before the main IETF meeting
    starts.  While some people participate in the Hackathon only, the
-   majority of people remain and plan to be actively engaged in the rest
-   of the IETF meeting.
+   majority remain and plan to be actively engaged in the rest of the
+   IETF meeting.
 
    The typical agenda is as follows:
 
@@ -238,7 +238,7 @@ Table of Contents
 
    The time on Saturday morning provides team champions time for setup
    and participants time to socialize and learn more about projects and
-   team they might want to join.  The kickoff presentation and
+   teams they might want to join.  The kickoff presentation and
    formalities are kept to minimum to leave as much time as possible for
    team to work together with their team on their projects.  The
    proximity of teams to each other fosters communication and
@@ -342,7 +342,7 @@ Table of Contents
    set for Monday, the closing for Friday, with all the time in between
    left for individual project teams to arrange to meet how and when was
    most convenient for them.  The kickoff and closing sessions were
-   schedule to align with the time frame established for the IETF 108
+   scheduled to align with the time frame established for the IETF 108
    meeting.  All of this was, of course, not ideal, and it worked much
    better for some people than for others, but at least everyone knew
    the plan and corresponding time commitment well in advance and had
@@ -616,12 +616,12 @@ Table of Contents
 
    The [DATATRACKER] supports the notion of Teams that are not part of
    the standards development process.  The Hackathon exists as one such
-   Team.  From the Datatracker menu, navigate to "Other" -> "Active
-   Teams" -> "Hackathon".  Here exists a Datatracker space for the
-   Hackathon similar to what is available for working groups, including
-   meeting materials, agendas, etc.  Initially, there was some attempt
-   to copy materials hosted in the [IETF-HACKATHON-GITHUB] to the
-   Datatracker.  Now this is done only when required for integration
+   Team.  From the Datatracker menu, navigate to "Groups" -> "Other" ->
+   "Active Teams" -> "hackathon".  Here exists a Datatracker space for
+   the Hackathon similar to what is available for working groups,
+   including meeting materials, agendas, etc.  Initially, there was some
+   attempt to copy materials hosted in the [IETF-HACKATHON-GITHUB] to
+   the Datatracker.  Now this is done only when required for integration
    with other IETF tooling, including to:
 
    *  [REQUEST-SESSIONS] for the Hackathon kickoff and closing, and for
@@ -813,10 +813,10 @@ Table of Contents
    inception and continues to add more capabilities over time.
    Champions are able to request in advance wired access and special
    networking functionality, including static IPv4 and IPv6 addresses,
-   IPv6 only networking, a closed user group, NAT64, and IPv6 PD.  All
-   of this, and the IETF network in general, is made available by the
-   start of the Hackathon and in advance for setup to the extent
-   possible.
+   IPv6 only networking, a closed user group, NAT64, and IPv6 Prefix
+   Delegation.  All of this, and the IETF network in general, is made
+   available by the start of the Hackathon and in advance for setup to
+   the extent possible.
 
 5.8.1.  Remote Networking
 
@@ -1178,8 +1178,8 @@ Table of Contents
               <https://www.ietf.org/privacy-statement/>.
 
    [IETF-RUNNING-CODE-SPONSOR]
-              "IETF Running Code Sponsor", n.d.,
-              <https://www.ietf.org/about/support/#running-code/>.
+              "IETF Running Code Sponsor", n.d., <https://www.ietf.org/
+              support-us/sponsorship/#running-code>.
 
    [LOST-AND-FOUND]
               "IETF 110 Hackathon Lost and Found", n.d.,
@@ -1243,7 +1243,7 @@ Table of Contents
               wiki/110hackathon/teamschedule>.
 
    [TICKET]   "IETF Support Email Alias", n.d.,
-              <mailto://tickets@meeting.ietf.org>.
+              <mailto:tickets@meeting.ietf.org>.
 
    [WEBEX-ACCOUNT]
               "IETF Webex Account", n.d.,
