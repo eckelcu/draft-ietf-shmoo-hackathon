@@ -236,7 +236,7 @@ The typical agenda is as follows:
         16:00: Hackathon ends
         17:00: Tear down complete
 
-The time on Saturday morning provides team champions time for setup and participants time to socialize and learn more about projects and teams they might want to join. The kickoff presentation and formalities are kept to minimum to leave as much time as possible for team to work together with their team on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.
+The time on Saturday morning provides team champions time for setup and participants time to socialize and learn more about projects and teams they might want to join. The kickoff presentation and formalities are kept to a minimum to leave as much time as possible for teams to work together on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.
 
 Lunch and dinner are provided as a convenience and an incentive to remain at the Hackathon. Participants are free to come and go as they like. It is well understood and accepted that there are other things vying for time and that meeting with friends and colleagues outside of the Hackathon is an entirely reasonable thing to do.
 
