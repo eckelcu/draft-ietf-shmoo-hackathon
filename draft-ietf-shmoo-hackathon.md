@@ -403,8 +403,7 @@ The IETF Hackathon uses the same tooling used by the IETF community for its work
 
 ## Datatracker
 
-The {{DATATRACKER}} supports the notion of Teams that are not part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to "Groups" -> "Other" -> "Active Teams" ->
-"hackathon". Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in the {{IETF-HACKATHON-GITHUB}} to the Datatracker. Now this is done only when required for integration with other IETF tooling, including to:
+The {{DATATRACKER}} supports the notion of Teams that are not part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to "Groups" -> "Other" -> "Active Teams" -> "hackathon". Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in the {{IETF-HACKATHON-GITHUB}} to the Datatracker. Now this is done only when required for integration with other IETF tooling, including to:
 
 * {{REQUEST-SESSIONS}} for the Hackathon kickoff and closing, and for Hackdemo Happy Hour
 * post {{AGENDAS}}
